@@ -5,16 +5,16 @@
 - ділить події відповідно до групи
 
 ## Групи 
-| Група | Пн    | Вт    | Ср    | Чт    | Посилання                                                                                                                                      |
-| ----- | ----- | ----- | ----- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | 10:00 |       | 10:00 |       | [LNA_group1](https://calendar.google.com/calendar/embed?src=6ealjvds7kpike732q8gtpejmqllikkv%40import.calendar.google.com)                     |
-| 2     | 14:00 |       | 14:00 |       | [LNA_group2](https://calendar.google.com/calendar/embed?src=uqfh2h8okebhenpmnbr9j8f6s25ga3m5%40import.calendar.google.com&ctz=Europe%2FBerlin) |
-| 3     | 17:00 |       | 17:00 |       | [LNA_group3](https://calendar.google.com/calendar/embed?src=3uvnbnfiunongse0o8ekcs2dvb1qsn15%40import.calendar.google.com&ctz=Europe%2FBerlin) |
-| 4     | 19:00 |       | 19:00 |       | [LNA_group4](https://calendar.google.com/calendar/embed?src=pu28mm8nmgl2arefh6p07gd7ivs082pm%40import.calendar.google.com&ctz=Europe%2FBerlin) |
-| 5     |       | 10:00 |       | 10:00 | [LNA_group5](https://calendar.google.com/calendar/embed?src=vfsj17ec4ou96e87lqbfbr3r8uca99bc%40import.calendar.google.com&ctz=Europe%2FBerlin) |
-| 6     |       | 14:00 |       | 14:00 | [LNA_group5]()                                                                                                                                 |
-| 7     |       | 17:00 |       | 17:00 | [LNA_group5]()                                                                                                                                 |
-| 8     |       | 19:00 |       | 19:00 | [LNA_group5]()                                                                                                                                 |
+| Група | Пн    | Вт    | Ср    | Чт    | Посилання                                                                                                                                    |
+| ----- | ----- | ----- | ----- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | 10:00 |       | 10:00 |       | [LNA_group1](https://calendar.google.com/calendar/embed?src=6ealjvds7kpike732q8gtpejmqllikkv%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 2     | 14:00 |       | 14:00 |       | [LNA_group2](https://calendar.google.com/calendar/embed?src=uqfh2h8okebhenpmnbr9j8f6s25ga3m5%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 3     | 17:00 |       | 17:00 |       | [LNA_group3](https://calendar.google.com/calendar/embed?src=3uvnbnfiunongse0o8ekcs2dvb1qsn15%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 4     | 19:00 |       | 19:00 |       | [LNA_group4](https://calendar.google.com/calendar/embed?src=pu28mm8nmgl2arefh6p07gd7ivs082pm%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 5     |       | 10:00 |       | 10:00 | [LNA_group5](https://calendar.google.com/calendar/embed?src=vfsj17ec4ou96e87lqbfbr3r8uca99bc%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 6     |       | 14:00 |       | 14:00 | [LNA_group6](https://calendar.google.com/calendar/embed?src=vfsj17ec4ou96e87lqbfbr3r8uca99bc%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 7     |       | 17:00 |       | 17:00 | [LNA_group7](https://calendar.google.com/calendar/embed?src=6p3tp63t0g3hf3t6s1jbganp1e5hbn7s%40import.calendar.google.com&ctz=Europe%2FKyiv) |
+| 8     |       | 19:00 |       | 19:00 | [LNA_group8](https://calendar.google.com/calendar/embed?src=jjvj0g6bjsebsreroqr9h6pqodfeqmf5%40import.calendar.google.com&ctz=Europe%2FKyiv) |
 
 ## 🚀 Запуск скрипта
 
