@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      ICS_SOURCE_URL: ${{ secrets.ICS_URL }}
+      ICS_URL: ${{ secrets.ICS_URL }}
 
     steps:
       - name: Checkout repo
