@@ -1,0 +1,242 @@
+{
+  "calendar_meta": {
+    "prodid": "-//Alona Kuznietsova//LNA Filtered Calendar//UK",
+    "name": "LNA _Group1",
+    "timezone": "Europe/Kiev",
+    "description": "Calendar for course Linux & Network Administration - Group1",
+    "group": 1
+  },
+  "events": [
+    {
+      "summary": "1. Тема: Інтерфейс командного рядку",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11944\">Інтерфейс командного рядку</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11945\">Lab: Інтерфейс командного рядку</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-09T10:00:00+02:00",
+      "dtend": "2026-03-09T12:00:00+02:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-09-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><br><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Саме час почати/продовжити/завершити:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>-  </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-03-09T12:00:00+02:00",
+      "dtend": "2026-03-09T14:00:00+02:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-09-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Файлова система",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11744\">Файлова система</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/lesson/view.php?id=11745\">Lab: Файлова система</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-11T10:00:00+02:00",
+      "dtend": "2026-03-11T12:00:00+02:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-11-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><a href=\"https://dl.portaone.com/mod/lesson/view.php?id=11745\">Lab: Файлова система</a><br><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11746\">Self-check: Файлова система</a></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-03-11T12:00:00+02:00",
+      "dtend": "2026-03-11T14:00:00+02:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-11-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Користувачі та права доступу",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11759\" target=\"_blank\">Користувачі та права доступу</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/lesson/view.php?id=11760\" target=\"_blank\">Lab: Користувачі</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11761\">Lab: Права доступу до файлів</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-16T10:00:00+02:00",
+      "dtend": "2026-03-16T12:00:00+02:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-16-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/lesson/view.php?id=11760\" target=\"_blank\">Lab: Користувачі</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11761\" target=\"_blank\">Lab: Права доступу до файлі</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>  </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11762\">Self-check: Користувачі та права доступу</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Саме час почати/продовжити/завершити:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11749\">Assignment: Файлова система</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-03-16T12:00:00+02:00",
+      "dtend": "2026-03-16T14:00:00+02:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-16-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Процеси та перенаправлення вводу/виводу",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11751\">Процеси та перенаправлення вводу/виводу</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11752\">Lab: Процеси</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-18T10:00:00+02:00",
+      "dtend": "2026-03-18T12:00:00+02:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-18-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11752\">Lab: Процеси</a><br><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11753\">Self-check: Процеси</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Саме час почати/продовжити/завершити:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11764\">Assignment: Файли, користувачі, права доступу</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-03-18T12:00:00+02:00",
+      "dtend": "2026-03-18T14:00:00+02:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-18-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Траблшутінг швидкодії",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11934\" target=\"_blank\">Траблшутінг швидкодії</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- </span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11935\" target=\"_blank\">Lab: Пошук та усунення проблем швидкодії</a></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-23T10:00:00+02:00",
+      "dtend": "2026-03-23T12:00:00+02:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-23-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11935\" target=\"_blank\">Lab: Пошук та усунення проблем швидкодії</a><br><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11936\" target=\"_blank\">[optional] Performance troubleshooting</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11937\" target=\"_blank\">Self-check: Траблшутінг швидкодії</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Саме час почати/продовжити/завершити:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11972\" target=\"_blank\">Assignment: Troubleshooting</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-03-23T12:00:00+02:00",
+      "dtend": "2026-03-23T14:00:00+02:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-23-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Розбір мешапу LB",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- </span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-03-30T10:00:00+03:00",
+      "dtend": "2026-03-30T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-30-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Системні утиліти",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11768\">Системні утиліти</a></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11769\">Lab: мултіплексор терміналу</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11770\">Lab: cron</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-04-01T10:00:00+03:00",
+      "dtend": "2026-04-01T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-01-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11769\" target=\"_blank\">Lab: мултіплексор терміналу</a> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11770\" target=\"_blank\">Lab: cron</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11771\">Self-check: Системні утиліти</a></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-04-01T12:00:00+03:00",
+      "dtend": "2026-04-01T14:00:00+03:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-01-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Системні утиліти",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11768\" target=\"_blank\">Системні утиліти</a></span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span></span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11774\">Lab: Systemd</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-04-06T10:00:00+03:00",
+      "dtend": "2026-04-06T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-06-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11774\" target=\"_blank\">Lab: Systemd</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11776\">Self-check: Systemd</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Саме час почати/продовжити/завершити:</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11779\">Assignment: Системні служби та утиліти</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-04-06T12:00:00+03:00",
+      "dtend": "2026-04-06T14:00:00+03:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-06-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема:  Регулярні вирази",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11968\">Регулярні вирази</a> </span></span></span></span></font></font></span></span></span></span><span><br><span> </span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11783\">Lab: Регулярні вирази</a></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-04-08T10:00:00+03:00",
+      "dtend": "2026-04-08T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-08-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11783\" target=\"_blank\">Lab: Регулярні вирази</a> </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-04-08T12:00:00+03:00",
+      "dtend": "2026-04-08T14:00:00+03:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-08-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Обробка тексту",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11970\" target=\"_blank\">Обробка тексту</a></span></span></span></span></font></font></span></span></span></span><br><span><br><u></u><span>На занятті:<br></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11784\" target=\"_blank\">Lab: Обробка тексту</a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span> </span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-04-13T10:00:00+03:00",
+      "dtend": "2026-04-13T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-13-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11784\">Lab: Обробка тексту</a> </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11977\" target=\"_blank\">Self-check: обробка тексту</a></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-04-13T12:00:00+03:00",
+      "dtend": "2026-04-13T14:00:00+03:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-13-group1@filtered.local",
+      "weekday": 0,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "1. Тема: Bash scripting",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span><span><span><span>До заняття переглянути відео та передивитись матеріали з розділів:</span></span></span> </span></span></span></span></font></font></span></span></span><br></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><font><font><span><span><span><span>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11973\" target=\"_blank\"> Bash scripting</a></span></span></span></span></font></font></span></span></span></span><br><span><br><span>На занятті:<br>- <a href=\"https://dl.portaone.com/mod/page/view.php?id=11785\" target=\"_blank\">Lab: Сценарії оболонки</a></span></span></span></span></span></span></span></span></span></span></span></span><br><span><span><span><span><span><span><span><span><span><span> </span></span><br><span><span><span><span> </span><span>Години занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span></span></span></span></span></span></span>",
+      "location": "https://meet.google.com/crm-eynx-yqv",
+      "dtstart": "2026-04-15T10:00:00+03:00",
+      "dtend": "2026-04-15T12:00:00+03:00",
+      "uid": "64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-15-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    },
+    {
+      "summary": "2. Домашне завдання:",
+      "description": "<span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Завершити виконання практичних завдань:</span></span></span></span></span></span></span></span> </span></span></span></span></span></span></span></span><br></span></span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span>- </span></span></span></span></span></span></span></span></span></span></span></span><span><span><a href=\"https://dl.portaone.com/mod/page/view.php?id=11785\">Lab: Сценарії оболонки</a><br><span><span><span><span><span><span><span><span><span><br><span><span><span><span><span><span><span><span><span><span>Для закріплення отриманих знань можете спробувати:</span></span></span></span></span></span></span></span></span></span> <br><span><span>- <a href=\"https://dl.portaone.com/mod/quiz/view.php?id=11979\">Self-check: сценарії оболонки</a></span></span></span></span></span></span></span></span></span></span></span></span></span>",
+      "location": "",
+      "dtstart": "2026-04-15T12:00:00+03:00",
+      "dtend": "2026-04-15T14:00:00+03:00",
+      "uid": "35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-15-group1@filtered.local",
+      "weekday": 2,
+      "source_date": "DTSTART",
+      "sequence": 1
+    }
+  ]
+}
