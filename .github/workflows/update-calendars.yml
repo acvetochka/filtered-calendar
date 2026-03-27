@@ -4,9 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *" # кожні 6 годин
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "docs/**"
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-clendars
+  cancel-in-progress: true
 
 jobs:
   build:
