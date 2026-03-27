@@ -4,8 +4,11 @@ PRODID:-//Alona Kuznietsova//LNA Filtered Calendar//UK
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 DESCRIPTION:Calendar for course Linux & Network Administration - Group6
+X-WR-CALDESC:Calendar for course Linux & Network Administration - Group6
 NAME:LNA _Group6
+X-WR-CALNAME:LNA _Group6
 TIMEZONE:Europe/Kiev
+X-WR-TIMEZONE:Europe/Kiev
 BEGIN:VEVENT
 SUMMARY:1. Тема: Інтерфейс командного рядку
 DTSTART;TZID="UTC+02:00":20260310T140000
