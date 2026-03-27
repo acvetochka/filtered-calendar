@@ -9,6 +9,7 @@ on:
       - main
     paths-ignore:
       - "docs/**"
+      - "README.md"
 
 permissions:
   contents: write
@@ -37,7 +38,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate calendars
-        run: python run.py group3
+        run: python run.py all
 
       - name: Commit updated ICS files
         run: |
