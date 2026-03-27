@@ -32,5 +32,5 @@ def save_ics(data:dict, output_ics: str) -> None:
 
         cal.add_component(event)
 
-    with open(f"output/group{metadata["group"]}.ics", "wb") as f:
+    with open(f"docs/group{metadata["group"]}.ics", "wb") as f:
         f.write(cal.to_ical())

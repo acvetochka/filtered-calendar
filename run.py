@@ -28,7 +28,7 @@ def generate_group(group_id: int, with_json: bool = False):
         start_from_date=START_FROM_DATE,
     )
 
-    ics_path = f"output/group{group_id}.ics"
+    ics_path = f"docs/group{group_id}.ics"
     save_ics(data, ics_path)
 
     if with_json:

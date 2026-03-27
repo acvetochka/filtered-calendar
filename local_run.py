@@ -10,6 +10,6 @@ data = build_filtered_calendar_data(
 )
 
 save_json(data, OUTPUT_JSON)
-save_ics(data, f"output/group{SELECTED_GROUP}.ics")
+save_ics(data, f"docs/group{SELECTED_GROUP}.ics")
 
 print(f"Готово. Група {SELECTED_GROUP}. Збережено {len(data['events'])} подій у {OUTPUT_JSON}")
