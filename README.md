@@ -5,16 +5,16 @@
 - ділить події відповідно до групи
 
 ## Групи 
-| Група | Пн    | Вт    | Ср    | Чт    |
-| ----- | ----- | ----- | ----- | ----- |
-| 1     | 10:00 |       | 10:00 |       |
-| 2     | 14:00 |       | 14:00 |       |
-| 3     | 17:00 |       | 17:00 |       |
-| 4     | 19:00 |       | 19:00 |       |
-| 5     |       | 10:00 |       | 10:00 |
-| 6     |       | 14:00 |       | 14:00 |
-| 7     |       | 17:00 |       | 17:00 |
-| 8     |       | 19:00 |       | 19:00 |
+| Група | Пн    | Вт    | Ср    | Чт    | Посилання                                                                                                                                      |
+| ----- | ----- | ----- | ----- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | 10:00 |       | 10:00 |       | [LNA_group1](https://calendar.google.com/calendar/embed?src=6ealjvds7kpike732q8gtpejmqllikkv%40import.calendar.google.com&ctz=Europe%2FBerlin) |
+| 2     | 14:00 |       | 14:00 |       | [LNA_group2](https://calendar.google.com/calendar/embed?src=uqfh2h8okebhenpmnbr9j8f6s25ga3m5%40import.calendar.google.com&ctz=Europe%2FBerlin) |
+| 3     | 17:00 |       | 17:00 |       | [LNA_group3](https://calendar.google.com/calendar/embed?src=3uvnbnfiunongse0o8ekcs2dvb1qsn15%40import.calendar.google.com&ctz=Europe%2FBerlin) |
+| 4     | 19:00 |       | 19:00 |       | [LNA_group4](https://calendar.google.com/calendar/embed?src=pu28mm8nmgl2arefh6p07gd7ivs082pm%40import.calendar.google.com&ctz=Europe%2FBerlin) |
+| 5     |       | 10:00 |       | 10:00 | [LNA_group5](https://calendar.google.com/calendar/embed?src=vfsj17ec4ou96e87lqbfbr3r8uca99bc%40import.calendar.google.com&ctz=Europe%2FBerlin) |
+| 6     |       | 14:00 |       | 14:00 | [LNA_group5]()                                                                                                                                 |
+| 7     |       | 17:00 |       | 17:00 | [LNA_group5]()                                                                                                                                 |
+| 8     |       | 19:00 |       | 19:00 | [LNA_group5]()                                                                                                                                 |
 
 ## 🚀 Запуск скрипта
 
