@@ -695,4 +695,438 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Вступ до комп'ютерних мереж
+DTSTART;TZID="UTC+03:00":20260422T100000
+DTEND;TZID="UTC+03:00":20260422T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-22-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11959">Вступ до комп'юте
+ рних мереж</a></span></span></span></span></font></font></span></
+ span></span></span><span><br><span> </span></span></span></span></span></
+ span></span></span></span></span></span><br><span><span><span><span><span>
+ <span><span><span><span><span><span>На занятті:<br>- <a href="ht
+ tps://dl.portaone.com/mod/page/view.php?id=11960">Lab: Вступ до к
+ омп'ютерних мереж</a></span></span></span></span></span></s
+ pan></span></span></span></span></span></span></span><br><span><span><span
+ ><span><span><span><span><span><span><span> </span></span><br><span><span
+ ><span><span> </span><span>Години занять: </span><br><span>-
+  10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><sp
+ an>- 19:00</span></span></span></span> </span></span></span></span></span>
+ </span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260422T120000
+DTEND;TZID="UTC+03:00":20260422T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-22-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><a href="https://dl.portaone.com/mod/page/view.php?id=11960" target="_
+ blank">Lab: Вступ до комп'ютерних мереж</a></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span></span><br><span><span><span><span><span><span><span><span
+ ><span><span><span><br><span><span><span><span><span><span><span><span><sp
+ an><span>Для закріплення отриманих знань мо
+ жете спробувати:</span></span></span></span></span></span></
+ span></span></span></span> <br><span><span>- <a href="https://dl.portaone
+ .com/mod/quiz/view.php?id=11961" target="_blank">Self-check: Вступ д
+ о комп'ютерних мереж</a></span></span></span></span></spa
+ n></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Комп'ютерні мережі: фізичний 
+ та канальний рівні
+DTSTART;TZID="UTC+03:00":20260427T100000
+DTEND;TZID="UTC+03:00":20260427T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-27-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11794">Комп'ютерні мере
+ жі: фізичний та канальний рівні</a></span></span
+ ></span></span></font></font></span></span></span></span><span><br><span>
+  </span></span></span></span></span></span></span></span></span></span></
+ span><br><span><span><span><span><span><span><span><span><span><span><span
+ >На занятті:<br>- <a href="https://dl.portaone.com/mod/page/view
+ .php?id=11795">Lab: моделювання мережі (одна мере
+ жа)</a></span></span></span></span></span></span></span></span></span></
+ span></span></span></span><br><span><span><span><span><span><span><span><s
+ pan><span><span> </span></span><br><span><span><span><span> </span><span
+ >Години занять: </span><br><span>- 10:00 </span><br><span>- 
+ 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></s
+ pan></span> </span></span></span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260427T120000
+DTEND;TZID="UTC+03:00":20260427T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-27-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11795">Lab: моде
+ лювання мережі (одна мережа)</a><br><span><span><sp
+ an><span><span><span><span><span><span><br><span><span><span><span><span><
+ span><span><span><span><span>Для закріплення отриман
+ их знань можете спробувати:</span></span></span></s
+ pan></span></span></span></span></span></span> <br><span><span>- <a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11796">Self-check: Фізи
+ чний та канальний рівень</a></span></span></span></sp
+ an></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Комп'ютерні мережі: мережеви
+ й рівень
+DTSTART;TZID="UTC+03:00":20260429T100000
+DTEND;TZID="UTC+03:00":20260429T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-29-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11799">Комп'ютерні мере
+ жі: мережевий рівень</a></span></span></span></span></fon
+ t></font></span></span></span></span><span><br><span> </span></span></spa
+ n></span></span></span></span></span></span></span></span><br><span><span>
+ <span><span><span><span><span><span><span><span><span>На занятті:
+ <br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11800">Lab: 
+ моделювання мережі в Packet Tracer (2 мережі)</a><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span><br><span><span><span><span><span><span><span><span><span>
+ <span> </span></span><br><span><span><span><span> </span><span>Годи
+ ни занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </
+ span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></spa
+ n> </span></span></span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260429T120000
+DTEND;TZID="UTC+03:00":20260429T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-29-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11800">Lab: моде
+ лювання мережі в Packet Tracer (2 мережі)</a><br><span
+ ><span><span><span><span><span><span><span><span><br><span><span><span><sp
+ an><span><span><span><span><span><span>Для закріплення от
+ риманих знань можете спробувати:</span></span>
+ </span></span></span></span></span></span></span></span> <br><span><span>-
+  <a href="https://dl.portaone.com/mod/quiz/view.php?id=11801">Self-check:
+  Мережевий рівень</a></span></span></span></span></span></s
+ pan></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Налаштування та контроль мер
+ ежі
+DTSTART;TZID="UTC+03:00":20260504T100000
+DTEND;TZID="UTC+03:00":20260504T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-04-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://
+ dl.portaone.com/mod/page/view.php?id=11804">Налаштування та 
+ контроль мережі</a> </span></span></span></span></font></fo
+ nt></span></span></span></span><span><br><span> </span></span></span></sp
+ an></span></span></span></span></span></span></span><br><span><span><span>
+ <span><span><span><span><span><span><span><span>На занятті:<br>-
+  <a href="https://dl.portaone.com/mod/page/view.php?id=11805">Lab: Нал
+ аштування та контроль мережі</a></span></span></s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ <br><span><span><span><span><span><span><span><span><span><span> </span><
+ /span><br><span><span><span><span> </span><span>Години занять
+ : </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 
+ 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span>
+ </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260504T120000
+DTEND;TZID="UTC+03:00":20260504T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-04-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11805">Lab: Нала
+ штування та контроль мережі</a><br><span><span><sp
+ an><span><span><span><span><span><span><br><span><span><span><span><span><
+ span><span><span><span><span>Для закріплення отриман
+ их знань можете спробувати:</span></span></span></s
+ pan></span></span></span></span></span></span> <br><span><span>- <a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11806">Self-check: Нала
+ штування та контроль мережі</a></span></span></spa
+ n></span></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Комп'ютерні мережі: транспор
+ тний рівень
+DTSTART;TZID="UTC+03:00":20260506T100000
+DTEND;TZID="UTC+03:00":20260506T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-06-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11809">Комп'ютерні мере
+ жі: транспортний рівень</a></span></span></span></span
+ ></font></font></span></span></span></span><span><br><span> </span></span
+ ></span></span></span></span></span></span></span></span></span><br><span>
+ <span><span><span><span><span><span><span><span><span><span>На заня
+ тті:<br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11810"
+ > Lab: Транспортний рівень</a></span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span> </span></span><br
+ ><span><span><span><span> </span><span>Години занять: </span
+ ><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </
+ span><br><span>- 19:00</span></span></span></span> </span></span></span></
+ span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260506T120000
+DTEND;TZID="UTC+03:00":20260506T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-06-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11810">Lab: Тран
+ спортний рівень</a><br><span><span><span><span><span><span><
+ span><span><span><br><span><span><span><span><span><span><span><span><span
+ ><span>Для закріплення отриманих знань мож
+ ете спробувати:</span></span></span></span></span></span></sp
+ an></span></span></span> <br><span><span>- <a href="https://dl.portaone.c
+ om/mod/quiz/view.php?id=11811">Self-check: Транспортний рів
+ ень</a></span></span></span></span></span></span></span></span></span><
+ /span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
+ ий рівень
+DTSTART;TZID="UTC+03:00":20260511T100000
+DTEND;TZID="UTC+03:00":20260511T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-11-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11814">Комп'ютерні мере
+ жі: прикладний рівень</a></span></span></span></span></f
+ ont></font></span></span></span></span><span><br><span> </span></span></s
+ pan></span></span></span></span></span></span></span></span><br><span><spa
+ n><span><span><span><span><span><span><span><span><span>На занятт
+ і:<br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11815">Lab
+ : Підсистема DNS</a></span></span></span></span></span></span></
+ span></span></span></span></span></span></span><br><span><span><span><span
+ ><span><span><span><span><span><span> </span></span><br><span><span><span
+ ><span> </span><span>Години занять: </span><br><span>- 10:00
+  </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 1
+ 9:00</span></span></span></span> </span></span></span></span></span></span
+ ></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260511T120000
+DTEND;TZID="UTC+03:00":20260511T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-11-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11815">Lab: Підс
+ истема DNS</a><br><span><span><span><span><span><span><span><span><s
+ pan><br><span><span><span><span><span><span><span><span><span><span>Для
+  закріплення отриманих знань можете спр
+ обувати:</span></span></span></span></span></span></span></span></s
+ pan></span> <br><span><span>- <a href="https://dl.portaone.com/mod/quiz/v
+ iew.php?id=11818">Self-check: Прикладний рівень</a></span>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span> </span></span></span></span></span></span></span></span></
+ span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
+ ий рівень
+DTSTART;TZID="UTC+03:00":20260513T100000
+DTEND;TZID="UTC+03:00":20260513T120000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-13-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11814">Комп'ютерні мере
+ жі: прикладний рівень</a></span></span></span></span></f
+ ont></font></span></span></span></span><span><br><span> </span></span></s
+ pan></span></span></span></span></span></span></span></span><br><span><spa
+ n><span><span><span><span><span><span><span><span><span>На занятт
+ і:<br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11816">Lab
+ : Передача файлів</a></span></span></span></span></span></sp
+ an></span></span></span></span></span></span></span><br><span><span><span>
+ <span><span><span><span><span><span><span><span><span><span>- <a href="ht
+ tps://dl.portaone.com/mod/page/view.php?id=11817">Lab: Віддалена 
+ робота</a></span></span></span></span></span></span></span></span></
+ span></span></span></span></span><br><span><span><span><span><span><span><
+ span><span><span><span> </span></span><br><span><span><span><span> </spa
+ n><span>Години занять: </span><br><span>- 10:00 </span><br><
+ span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></s
+ pan></span></span> </span></span></span></span></span></span></span></span
+ >
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260513T120000
+DTEND;TZID="UTC+03:00":20260513T140000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-13-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><span><span>- <a h
+ ref="https://dl.portaone.com/mod/page/view.php?id=11816" target="_blank">L
+ ab: Передача файлів</a></span></span></span></span></span></
+ span></span></span></span></span></span></span></span><br><span><span><spa
+ n><span><span><span><span><span><span><span><span><span><span>- <a href="
+ https://dl.portaone.com/mod/page/view.php?id=11817" target="_blank">Lab: 
+ Віддалена робота</a></span></span></span></span></span></sp
+ an></span></span></span></span></span></span></span></span></span><br><spa
+ n><span><span><span><span><span><span><span><span><span><span><span><span>
+ <span><span> </span></span></span></span></span></span></span></span></sp
+ an></span></span></span></span></span></span><span><span><span><span><span
+ ><span><span><span><span><span><span><br><span><span><span><span><span><sp
+ an><span><span><span><span>Для закріплення отримани
+ х знань можете спробувати:</span></span></span></spa
+ n></span></span></span></span></span></span> <br><span><span>- <a href="h
+ ttps://dl.portaone.com/mod/quiz/view.php?id=11818">Self-check: Прикл
+ адний рівень</a></span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span><span><span><span><span><span>
+ <span><span><span><span><span><span><span><span> </span></span></span></s
+ pan></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mashup Network basic
+DTSTART;TZID="UTC+03:00":20260518T100000
+DTEND;TZID="UTC+03:00":20260518T120000
+UID:2lda8rfr8sdnn5imle3mh71v7e@google.com-2026-05-18-group1@filtered.local
+SEQUENCE:0
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
