@@ -1118,4 +1118,68 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Мережеві утиліти
+DTSTART;TZID="UTC+03:00":20260520T140000
+DTEND;TZID="UTC+03:00":20260520T160000
+UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-20-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span><span><font><font><span><span><span><span>- <a href="https:/
+ /dl.portaone.com/mod/page/view.php?id=11829" target="_blank">Мереже
+ ві утиліти</a></span></span></span></span></font></font></span></
+ span></span></span><br><span><br><span>На занятті:<br>- <a href=
+ "https://dl.portaone.com/mod/page/view.php?id=11830" target="_blank">Lab: 
+ Захоплення трафіку + мережеві утиліти</a><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span><br><span><span><span><span><span><span><span><span><span><span>
+  </span></span><br><span><span><span><span> </span><span>Години з
+ анять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><b
+ r><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </sp
+ an></span></span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260520T160000
+DTEND;TZID="UTC+03:00":20260520T180000
+UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-20-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span> </span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span></span></
+ span></span></span></span></span></span><br><span><span><span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span>- </span></span></span></span></span></span></span></span
+ ></span></span></span></span></span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><a href="https://dl.portaone.com/mod/pag
+ e/view.php?id=11830" target="_blank">Lab: Захоплення трафі
+ ку + мережеві утиліти</a></span></span></span></span></sp
+ an></span></span></span></span></span></span></span><span><span><br><span>
+ <span><span><span><span><span><span><span><span><br><span><span><span><spa
+ n><span><span><span><span><span><span>Для закріплення отр
+ иманих знань можете спробувати:</span></span></
+ span></span></span></span></span></span></span></span> <br><span><span>- <
+ a href="https://dl.portaone.com/mod/quiz/view.php?id=11831" target="_blank
+ ">Self-check: Мережеві утиліт</a></span></span></span></span
+ ></span></span></span></span></span></span><span><span><span><span><span><
+ span><span><span><span><span> </span></span></span></span></span></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
