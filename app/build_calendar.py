@@ -50,7 +50,7 @@ def build_filtered_calendar_data(
 
     output = {
         "calendar_meta": {
-            "prodid": "-//Alona Kuznietsova//LNA Filtered Calendar//UK",
+            "prodid": "-//Alona Kuznietsova//LNA Filtered Calendar v2//UK",
             "version": "2.1",  
             "name": f"{original_name}_Group{selected_group}",
             "timezone": original_timezone,
@@ -77,8 +77,8 @@ def build_filtered_calendar_data(
         if not base_date:
             continue
 
-        if event_mode == "common_friday":
-            print(base_date, event_mode)
+        # if event_mode == "common_friday":
+        #     print(base_date, event_mode)
 
         # Фільтр від певної дати
         if start_from_date and base_date < start_from_date:
