@@ -3,17 +3,19 @@ VERSION:2.0
 PRODID:-//Alona Kuznietsova//LNA Filtered Calendar v2//UK
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DESCRIPTION:Calendar for course Linux & Network Administration - Group2
-X-WR-CALDESC:Calendar for course Linux & Network Administration - Group2
-NAME:LNA _Group2
-X-WR-CALNAME:LNA _Group2
-TIMEZONE:Europe/Kiev
-X-WR-TIMEZONE:Europe/Kiev
+DESCRIPTION: Об'єднаний календар розкладу та м
+ ешапів для Групи2
+X-WR-CALDESC: Об'єднаний календар розкладу та 
+ мешапів для Групи2
+NAME:LNA_Group2
+X-WR-CALNAME:LNA_Group2
+TIMEZONE:UTC
+X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:1. Тема: Інтерфейс командного рядку
-DTSTART:20260309T120000Z
-DTEND:20260309T140000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-09-group2@filtered.local
+DTSTART:20260309T140000Z
+DTEND:20260309T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-09-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -40,9 +42,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260309T140000Z
-DTEND:20260309T160000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-09-group2@filtered.local
+DTSTART:20260309T160000Z
+DTEND:20260309T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-09-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -77,9 +79,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Файлова система
-DTSTART:20260311T120000Z
-DTEND:20260311T140000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-11-group2@filtered.local
+DTSTART:20260311T140000Z
+DTEND:20260311T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-11-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -105,9 +107,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260311T140000Z
-DTEND:20260311T160000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-11-group2@filtered.local
+DTSTART:20260311T160000Z
+DTEND:20260311T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-11-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -133,9 +135,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Користувачі та права доступу
-DTSTART:20260316T120000Z
-DTEND:20260316T140000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-16-group2@filtered.local
+DTSTART:20260316T140000Z
+DTEND:20260316T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-16-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -166,9 +168,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260316T140000Z
-DTEND:20260316T160000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-16-group2@filtered.local
+DTSTART:20260316T160000Z
+DTEND:20260316T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-16-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -212,9 +214,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Процеси та перенаправлення в
  воду/виводу
-DTSTART:20260318T120000Z
-DTEND:20260318T140000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-18-group2@filtered.local
+DTSTART:20260318T140000Z
+DTEND:20260318T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-18-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -241,9 +243,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260318T140000Z
-DTEND:20260318T160000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-18-group2@filtered.local
+DTSTART:20260318T160000Z
+DTEND:20260318T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-18-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -280,9 +282,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Траблшутінг швидкодії
-DTSTART:20260323T120000Z
-DTEND:20260323T140000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-23-group2@filtered.local
+DTSTART:20260323T140000Z
+DTEND:20260323T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-23-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -310,9 +312,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260323T140000Z
-DTEND:20260323T160000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-23-group2@filtered.local
+DTSTART:20260323T160000Z
+DTEND:20260323T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-23-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -358,10 +360,30 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mashup Linux - module 1
+DTSTART:20260325T140000Z
+DTEND:20260325T160000Z
+UID:6ge00i2vr0e12hncv1ddr6dtes-2026-03-25-mashup-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://www.google.com/url?q=https://dl.portaone.com/mod/quiz/view.php?id
+ %3D11757&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw04s1Zg4J
+ 5q_LQA1oskXHHD" target="_blank">Quiz: Linux - module 1</a></b><br><br><spa
+ n><span><span><span><span><span>Години занять: </span><br><sp
+ an>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br
+ ><span>- 19:00</span></span></span></span> </span></span></span></span></s
+ pan></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1. Тема: Розбір мешапу LB
-DTSTART:20260330T110000Z
-DTEND:20260330T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-30-group2@filtered.local
+DTSTART:20260330T140000Z
+DTEND:20260330T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-30-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -385,9 +407,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Системні утиліти
-DTSTART:20260401T110000Z
-DTEND:20260401T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-01-group2@filtered.local
+DTSTART:20260401T140000Z
+DTEND:20260401T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-01-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -417,9 +439,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260401T130000Z
-DTEND:20260401T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-01-group2@filtered.local
+DTSTART:20260401T160000Z
+DTEND:20260401T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-01-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -448,9 +470,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Системні утиліти
-DTSTART:20260406T110000Z
-DTEND:20260406T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-06-group2@filtered.local
+DTSTART:20260406T140000Z
+DTEND:20260406T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-06-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -482,9 +504,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260406T130000Z
-DTEND:20260406T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-06-group2@filtered.local
+DTSTART:20260406T160000Z
+DTEND:20260406T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-06-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -523,9 +545,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема:  Регулярні вирази
-DTSTART:20260408T110000Z
-DTEND:20260408T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-08-group2@filtered.local
+DTSTART:20260408T140000Z
+DTEND:20260408T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-08-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -551,9 +573,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260408T130000Z
-DTEND:20260408T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-08-group2@filtered.local
+DTSTART:20260408T160000Z
+DTEND:20260408T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-08-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span><span><spa
@@ -575,9 +597,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Обробка тексту
-DTSTART:20260413T110000Z
-DTEND:20260413T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-13-group2@filtered.local
+DTSTART:20260413T140000Z
+DTEND:20260413T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-13-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -611,9 +633,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260413T130000Z
-DTEND:20260413T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-13-group2@filtered.local
+DTSTART:20260413T160000Z
+DTEND:20260413T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-13-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -641,9 +663,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Bash scripting
-DTSTART:20260415T110000Z
-DTEND:20260415T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-15-group2@filtered.local
+DTSTART:20260415T140000Z
+DTEND:20260415T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-15-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -669,9 +691,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260415T130000Z
-DTEND:20260415T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-15-group2@filtered.local
+DTSTART:20260415T160000Z
+DTEND:20260415T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-15-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -696,10 +718,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mashup Linux - module 2
+DTSTART:20260420T140000Z
+DTEND:20260420T160000Z
+UID:1sifcn33a6gk5ndvtlt65qm6ta-2026-04-20-mashup-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11781" target="_blank">Quiz:
+  Linux - module 2</a></b><br><br><span><span><span><span><span><span>Го
+ дини занять: </span><br><span>- 10:00 </span><br><span>- 14:00
+  </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span><
+ /span> </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1. Тема: Вступ до комп'ютерних мереж
-DTSTART:20260422T110000Z
-DTEND:20260422T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-22-group2@filtered.local
+DTSTART:20260422T140000Z
+DTEND:20260422T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-22-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -726,9 +766,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260422T130000Z
-DTEND:20260422T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-22-group2@filtered.local
+DTSTART:20260422T160000Z
+DTEND:20260422T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-22-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -758,9 +798,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Комп'ютерні мережі: фізичний 
  та канальний рівні
-DTSTART:20260427T110000Z
-DTEND:20260427T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-27-group2@filtered.local
+DTSTART:20260427T140000Z
+DTEND:20260427T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-27-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -787,9 +827,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260427T130000Z
-DTEND:20260427T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-27-group2@filtered.local
+DTSTART:20260427T160000Z
+DTEND:20260427T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-27-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -816,9 +856,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Комп'ютерні мережі: мережеви
  й рівень
-DTSTART:20260429T110000Z
-DTEND:20260429T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-29-group2@filtered.local
+DTSTART:20260429T140000Z
+DTEND:20260429T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-29-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -845,9 +885,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260429T130000Z
-DTEND:20260429T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-29-group2@filtered.local
+DTSTART:20260429T160000Z
+DTEND:20260429T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-29-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -874,9 +914,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Налаштування та контроль мер
  ежі
-DTSTART:20260504T110000Z
-DTEND:20260504T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-04-group2@filtered.local
+DTSTART:20260504T140000Z
+DTEND:20260504T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-04-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -903,9 +943,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260504T130000Z
-DTEND:20260504T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-04-group2@filtered.local
+DTSTART:20260504T160000Z
+DTEND:20260504T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-04-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -932,9 +972,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Комп'ютерні мережі: транспор
  тний рівень
-DTSTART:20260506T110000Z
-DTEND:20260506T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-06-group2@filtered.local
+DTSTART:20260506T140000Z
+DTEND:20260506T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-06-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -961,9 +1001,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260506T130000Z
-DTEND:20260506T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-06-group2@filtered.local
+DTSTART:20260506T160000Z
+DTEND:20260506T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-06-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -990,9 +1030,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
  ий рівень
-DTSTART:20260511T110000Z
-DTEND:20260511T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-11-group2@filtered.local
+DTSTART:20260511T140000Z
+DTEND:20260511T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-11-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -1019,9 +1059,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260511T130000Z
-DTEND:20260511T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-11-group2@filtered.local
+DTSTART:20260511T160000Z
+DTEND:20260511T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-11-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1050,9 +1090,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
  ий рівень
-DTSTART:20260513T110000Z
-DTEND:20260513T130000Z
-UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-13-group2@filtered.local
+DTSTART:20260513T140000Z
+DTEND:20260513T160000Z
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-13-lesson-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -1083,9 +1123,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260513T130000Z
-DTEND:20260513T150000Z
-UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-13-group2@filtered.local
+DTSTART:20260513T160000Z
+DTEND:20260513T180000Z
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-13-homework-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1119,10 +1159,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mashup: Network basic
+DTSTART:20260518T140000Z
+DTEND:20260518T160000Z
+UID:2o5ucupdafnkk1vlakiiq3erdv-2026-05-18-mashup-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=12100" target="_blank">Quiz:
+  Network - module 1</a></b><br><br><span><span><span><span><span><span>Г
+ одини занять: </span><br><span>- 10:00 </span><br><span>- 14:
+ 00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span
+ ></span> </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1. Тема: Мережеві утиліти
-DTSTART:20260520T110000Z
-DTEND:20260520T130000Z
-UID:00d596c4-bd65-4ab7-9f73-b97ea63f2dc1-2026-05-20-group2@filtered.local
+DTSTART:20260520T140000Z
+DTEND:20260520T160000Z
+UID:00d596c4-bd65-4ab7-9f73-b97ea63f2dc1-2026-05-20-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1147,9 +1206,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260520T130000Z
-DTEND:20260520T150000Z
-UID:6269252d-213e-4f1e-9525-a80683476456-2026-05-20-group2@filtered.local
+DTSTART:20260520T160000Z
+DTEND:20260520T180000Z
+UID:6269252d-213e-4f1e-9525-a80683476456-2026-05-20-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1180,9 +1240,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Робота з ІP-адресами та маска
  ми
-DTSTART:20260525T110000Z
-DTEND:20260525T130000Z
-UID:53875770-e62e-4d1c-be74-a5581fa91da4-2026-05-25-group2@filtered.local
+DTSTART:20260525T140000Z
+DTEND:20260525T160000Z
+UID:53875770-e62e-4d1c-be74-a5581fa91da4-2026-05-25-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1207,9 +1268,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260525T130000Z
-DTEND:20260525T150000Z
-UID:6e0165a3-2a8d-450d-9d4c-d0b9a5fbcf71-2026-05-25-group2@filtered.local
+DTSTART:20260525T160000Z
+DTEND:20260525T180000Z
+UID:6e0165a3-2a8d-450d-9d4c-d0b9a5fbcf71-2026-05-25-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1233,9 +1295,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: ІР маршрутизація
-DTSTART:20260527T110000Z
-DTEND:20260527T130000Z
-UID:393ca4ac-4e9e-4c15-b874-cee2783e383e-2026-05-27-group2@filtered.local
+DTSTART:20260527T140000Z
+DTEND:20260527T160000Z
+UID:393ca4ac-4e9e-4c15-b874-cee2783e383e-2026-05-27-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1259,9 +1322,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260527T130000Z
-DTEND:20260527T150000Z
-UID:18769d7a-ad53-44b7-a85c-632771a689da-2026-05-27-group2@filtered.local
+DTSTART:20260527T160000Z
+DTEND:20260527T180000Z
+UID:18769d7a-ad53-44b7-a85c-632771a689da-2026-05-27-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1290,9 +1354,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Налаштування Linux-маршрутизат
  ора
-DTSTART:20260601T110000Z
-DTEND:20260601T130000Z
-UID:38270e55-1442-48fc-9196-985466d56625-2026-06-01-group2@filtered.local
+DTSTART:20260601T140000Z
+DTEND:20260601T160000Z
+UID:38270e55-1442-48fc-9196-985466d56625-2026-06-01-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1317,9 +1382,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260601T130000Z
-DTEND:20260601T150000Z
-UID:6953dafb-c79f-4f99-9331-88a4295e589e-2026-06-01-group2@filtered.local
+DTSTART:20260601T160000Z
+DTEND:20260601T180000Z
+UID:6953dafb-c79f-4f99-9331-88a4295e589e-2026-06-01-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1346,9 +1412,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Основи iptables: фільтрація
-DTSTART:20260603T110000Z
-DTEND:20260603T130000Z
-UID:913ad62c-5c94-4ed7-ac62-62b5f1340909-2026-06-03-group2@filtered.local
+DTSTART:20260603T140000Z
+DTEND:20260603T160000Z
+UID:913ad62c-5c94-4ed7-ac62-62b5f1340909-2026-06-03-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><font><font><span><span><span><span><span><span><span><a h
@@ -1377,9 +1444,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260603T130000Z
-DTEND:20260603T150000Z
-UID:9cfbca5a-a8b2-4ca0-887b-beefe296adba-2026-06-03-group2@filtered.local
+DTSTART:20260603T160000Z
+DTEND:20260603T180000Z
+UID:9cfbca5a-a8b2-4ca0-887b-beefe296adba-2026-06-03-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1405,9 +1473,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Тема: Перетворення мережевих адре
  с (NAT)
-DTSTART:20260608T110000Z
-DTEND:20260608T130000Z
-UID:3d19c18a-cbd8-465b-bb8f-d19f5ae83cfe-2026-06-08-group2@filtered.local
+DTSTART:20260608T140000Z
+DTEND:20260608T160000Z
+UID:3d19c18a-cbd8-465b-bb8f-d19f5ae83cfe-2026-06-08-lesson-group2@filtered
+ .local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><font><font><span><span><span><span><span><span><span>До
@@ -1435,9 +1504,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
-DTSTART:20260608T130000Z
-DTEND:20260608T150000Z
-UID:529105fe-6c8e-4a1c-b664-1394a2178963-2026-06-08-group2@filtered.local
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+UID:529105fe-6c8e-4a1c-b664-1394a2178963-2026-06-08-homework-group2@filter
+ ed.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1456,6 +1526,24 @@ DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  an></span></span><a href="https://dl.portaone.com/mod/quiz/view.php?id=118
  58">Self-check: NAT</a></span></span></span>
 LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mashup: Network advance
+DTSTART:20260610T140000Z
+DTEND:20260610T160000Z
+UID:1fo60c8fn4bfqpesfr558rqvvq-2026-06-10-mashup-group2@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11861" target="_blank">Quiz:
+  Network - module 2</a></b><br><br><span><span><span><span><span><span>Г
+ одини занять: </span><br><span>- 10:00 </span><br><span>- 14:
+ 00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span
+ ></span> </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
