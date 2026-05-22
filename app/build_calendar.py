@@ -102,8 +102,17 @@ def build_filtered_calendar_data(
         else:
             start_str, end_str = config["homework_time"]
 
-        new_dtstart = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
-        new_dtend = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
+        # new_dtstart = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
+        # new_dtend = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
+
+        # 1. Спочатку створюємо час у локальному поясі (Europe/Kiev)
+        local_start = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
+        local_end = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
+
+        # 2. Конвертуємо в UTC за допомогою .astimezone()
+        # Python автоматично відніме потрібну кількість годин (2 або 3 залежно від сезону)
+        new_dtstart = local_start.astimezone(ZoneInfo("UTC"))
+        new_dtend = local_end.astimezone(ZoneInfo("UTC"))
 
         # Очищаємо оригінальний UID від @google.com або @lna-fragment, щоб уникнути каші з '@'
         safe_uid = uid.split('@')[0]        
