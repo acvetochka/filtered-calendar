@@ -9,15 +9,15 @@ from constants.variables import OUTPUT_JSON, ICS_URL, SELECTED_GROUP, START_FROM
 from helpers.date_optimize import parse_hhmm, choose_base_date
 from helpers.event import get_event_type
 
-
+INPUT_ICS = 'basic (3).ics'
 
 config = GROUPS[SELECTED_GROUP]
 
-# with open(INPUT_ICS, "rb") as f:
-#     cal = Calendar.from_ical(f.read())
+with open(INPUT_ICS, "rb") as f:
+    cal = Calendar.from_ical(f.read())
 
-with urlopen(ICS_URL) as response:
-    cal = Calendar.from_ical(response.read())
+# with urlopen(ICS_URL) as response:
+#     cal = Calendar.from_ical(response.read())
 
 
 original_name = str(cal.get("X-WR-CALNAME", "Calendar"))

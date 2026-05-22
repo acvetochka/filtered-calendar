@@ -144,10 +144,15 @@ def build_filtered_calendar_data(
         new_dtend = local_end.astimezone(ZoneInfo("UTC"))
 
         # Очищаємо оригінальний UID від @google.com або @lna-fragment, щоб уникнути каші з '@'
-        safe_uid = uid.split('@')[0]        
+        safe_uid = uid.split('@')[0]  
+
+        # Якщо тип події - мешап, додаємо яскравий емодзі на початок назви
+        display_summary = summary
+        if event_type == "mashup":
+            display_summary = f"⚡ [Mashup] {summary}"      
 
         output["events"].append({
-            "summary": summary,
+            "summary": display_summary,
             "description": description,
             "location": location,
             "dtstart": new_dtstart.isoformat(),
