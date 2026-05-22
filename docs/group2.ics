@@ -1122,28 +1122,27 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Мережеві утиліти
 DTSTART;TZID="UTC+03:00":20260520T140000
 DTEND;TZID="UTC+03:00":20260520T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-20-group2@filtered.local
+UID:00d596c4-bd65-4ab7-9f73-b97ea63f2dc1@lna-fragment-2026-05-20-group2@fi
+ ltered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
- pan><span><span><span><span><font><font><span><span><span><span><span><spa
- n><span>До заняття переглянути відео та пер
- едивитись матеріали з розділів:</span></span></
- span> </span></span></span></span></font></font></span></span></span><br>
- </span></span></span></span></span></span></span></span></span></span></sp
- an></span><span><span><span><span><span><span><span><span><span><span><spa
- n><span><span><span><font><font><span><span><span><span>- <a href="https:/
- /dl.portaone.com/mod/page/view.php?id=11829" target="_blank">Мереже
- ві утиліти</a></span></span></span></span></font></font></span></
- span></span></span><br><span><br><span>На занятті:<br>- <a href=
- "https://dl.portaone.com/mod/page/view.php?id=11830" target="_blank">Lab: 
- Захоплення трафіку + мережеві утиліти</a><
- /span></span></span></span></span></span></span></span></span></span></spa
- n></span><br><span><span><span><span><span><span><span><span><span><span>
-  </span></span><br><span><span><span><span> </span><span>Години з
- анять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><b
- r><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </sp
- an></span></span></span></span></span></span></span>
-LOCATION:https://meet.google.com/crm-eynx-yqv
+ pan><span><font><font><span><span><span><span><span><span><span>До за
+ няття переглянути відео та передивитись
+  матеріали з розділів:</span></span></span> </span></sp
+ an></span></span></font></font></span></span></span><br><span><span><span>
+ <font><font><span><span><span><span>- <a href="https://dl.portaone.com/mod
+ /page/view.php?id=11829">Мережеві утиліти</a></span></span>
+ </span></span></font></font></span></span></span></span><br><span><br><spa
+ n>На занятті:<br>- <a href="https://dl.portaone.com/mod/page/vie
+ w.php?id=11830">Lab: Захоплення трафіку + мережев
+ і утиліти</a></span></span></span><span><br><span><span> </span><
+ /span><br><span><span><span><span> </span><span>Години занять
+ : </span><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 
+ 17:00 </span><br><span>- 19:00</span></span></span></span> </span></span>
+ </span></span></span></span></span></span>\n\nJoin with Google Meet: https
+ ://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: https://suppo
+ rt.google.com/a/users/answer/9282720
+LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1151,33 +1150,323 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260520T160000
 DTEND;TZID="UTC+03:00":20260520T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-20-group2@filtered.local
+UID:6269252d-213e-4f1e-9525-a80683476456@lna-fragment-2026-05-20-group2@fi
+ ltered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
  шити виконання практичних завдань:</span></s
  pan></span></span></span></span></span></span> </span></span></span></spa
- n></span></span></span></span><span><span><span><span><span><span><span><s
- pan><span><span><span><span><span><span><span> </span></span></span></spa
- n></span></span></span></span></span></span></span></span></span></span></
- span></span></span></span></span></span><br><span><span><span><span><span>
- <span><span><span><span><span><span><span><span><span><span><span><span><s
- pan><span><span>- </span></span></span></span></span></span></span></span
- ></span></span></span></span></span><span><span><span><span><span><span><s
- pan><span><span><span><span><span><a href="https://dl.portaone.com/mod/pag
- e/view.php?id=11830" target="_blank">Lab: Захоплення трафі
- ку + мережеві утиліти</a></span></span></span></span></sp
- an></span></span></span></span></span></span></span><span><span><br><span>
- <span><span><span><span><span><span><span><span><br><span><span><span><spa
- n><span><span><span><span><span><span>Для закріплення отр
- иманих знань можете спробувати:</span></span></
- span></span></span></span></span></span></span></span> <br><span><span>- <
- a href="https://dl.portaone.com/mod/quiz/view.php?id=11831" target="_blank
- ">Self-check: Мережеві утиліт</a></span></span></span></span
- ></span></span></span></span></span></span><span><span><span><span><span><
- span><span><span><span><span> </span></span></span></span></span></span><
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- </span></span></span></span></span></
+ span></span></span></span></span></span></span></span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><a href="https://dl.po
+ rtaone.com/mod/page/view.php?id=11830" target="_blank">Lab: Захопле
+ ння трафіку + мережеві утиліти</a></span></span><
+ /span></span></span></span></span></span></span></span></span></span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span><
  /span></span></span></span></span></span></span></span></span></span></spa
- n></span></span></span>
+ n><br><span><span><span><span><span><span><span><span><span><br><span><spa
+ n><span><span><span><span><span><span><span><span>Для закріпле
+ ння отриманих знань можете спробувати:</s
+ pan></span></span></span></span></span></span></span></span></span> <br><s
+ pan><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11831">S
+ elf-check: Мережеві утиліт</a></span></span></span></span></
+ span></span></span></span></span></span><span><span><span><span><span><spa
+ n><span><span><span><span> </span></span></span></span></span></span></sp
+ an></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Робота з ІP-адресами та маска
+ ми
+DTSTART;TZID="UTC+03:00":20260525T140000
+DTEND;TZID="UTC+03:00":20260525T160000
+UID:53875770-e62e-4d1c-be74-a5581fa91da4@lna-fragment-2026-05-25-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><font><font><span><span><span><span><span><span><span>До за
+ няття переглянути відео та передивитись
+  матеріали з розділів:</span></span></span> </span></sp
+ an></span></span></font></font></span></span></span><br><span><span><span>
+ <font><font><span><span><span><span>- <a href="https://dl.portaone.com/mod
+ /page/view.php?id=11834">Робота з ІP-адресами та мас
+ ками</a></span></span></span></span></font></font></span></span></span
+ ></span><br><span><br><span>На занятті:<br>- <a href="https://dl
+ .portaone.com/mod/lesson/view.php?id=11835">Lab: IP addressing</a></span><
+ /span></span><span><br><span><span> </span></span><br><span><span><span><
+ span> </span><span>Години занять: </span><br><span>- 10:00 
+ </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:
+ 00</span></span></span></span> </span></span></span></span></span></span><
+ /span></span>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-y
+ qv\n\nLearn more about Meet at: https://support.google.com/a/users/answer/
+ 9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260525T160000
+DTEND;TZID="UTC+03:00":20260525T180000
+UID:6e0165a3-2a8d-450d-9d4c-d0b9a5fbcf71@lna-fragment-2026-05-25-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span>-
+  <a href="https://dl.portaone.com/mod/lesson/view.php?id=11835" target="_
+ blank">Lab: IP addressing</a></span></span></span></span></span></span></s
+ pan></span></span></span></span></span></span><br><span><span><span><span>
+ <span><span><span><span><span><span><span><br><span><span><span><span><spa
+ n><span><span><span><span><span>Для закріплення отрима
+ них знань можете спробувати:</span></span></span><
+ /span></span></span></span></span></span></span> <br><span><span>- <a href
+ ="https://dl.portaone.com/mod/quiz/view.php?id=11838">Self-check: робо
+ та з IP-адресами та масками</a></span></span></span></
+ span></span></span></span></span></span></span><br></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: ІР маршрутизація
+DTSTART;TZID="UTC+03:00":20260527T140000
+DTEND;TZID="UTC+03:00":20260527T160000
+UID:393ca4ac-4e9e-4c15-b874-cee2783e383e@lna-fragment-2026-05-27-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><font><font><span><span><span><span><span><span><span>До за
+ няття переглянути відео та передивитись
+  матеріали з розділів:</span></span></span> </span></sp
+ an></span></span></font></font></span></span></span><br><span><span><span>
+ <font><font><span><span><span><span>- <a href="https://dl.portaone.com/mod
+ /page/view.php?id=11841">ІР маршрутизація</a></span></span>
+ </span></span></font></font></span></span></span></span><br><span><br><spa
+ n>На занятті:<br>- <a href="https://dl.portaone.com/mod/page/vie
+ w.php?id=11842">Lab: Routing</a></span></span></span><span><br><span><span
+ > </span></span><br><span><span><span><span> </span><span>Години 
+ занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span>
+ <br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </
+ span></span></span></span></span></span></span></span>\n\nJoin with Google
+  Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: h
+ ttps://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260527T160000
+DTEND;TZID="UTC+03:00":20260527T180000
+UID:18769d7a-ad53-44b7-a85c-632771a689da@lna-fragment-2026-05-27-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>-</span></span></span></span></span></sp
+ an></span></span></span></span></span></span></span><span><span><span><spa
+ n><span><span><span><span><span><span><span><span> <a href="https://dl.po
+ rtaone.com/mod/page/view.php?id=11842" target="_blank">Lab: Routing</a></s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ </span><span><span><span><span><span><span><span><span><span><span><span><
+ span><span></span></span></span></span></span></span></span></span></span>
+ </span></span><br><span><span><span><span><span><span><span><span><span><b
+ r><span><span><span><span><span><span><span><span><span><span>Для за
+ кріплення отриманих знань можете спробу
+ вати:</span></span></span></span></span></span></span></span></span></
+ span> <br><span><span>- </span></span></span></span></span></span></span>
+ </span></span></span><a href="https://dl.portaone.com/mod/quiz/view.php?id
+ =11843">Self-check: ІР маршрутизація</a></span></span></spa
+ n>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Налаштування Linux-маршрутизат
+ ора
+DTSTART;TZID="UTC+03:00":20260601T140000
+DTEND;TZID="UTC+03:00":20260601T160000
+UID:38270e55-1442-48fc-9196-985466d56625@lna-fragment-2026-06-01-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><font><font><span><span><span><span><span><span><span>До за
+ няття переглянути відео та передивитись
+  матеріали з розділів:</span></span></span> </span></sp
+ an></span></span></font></font></span></span></span><br><span><span><span>
+ <font><font><span><span><span><span>- <a href="https://dl.portaone.com/mod
+ /page/view.php?id=11846">Налаштування Linux-маршрутиз
+ атора</a></span></span></span></span></font></font></span></span></sp
+ an></span><br><span><br><span>На занятті:<br>- <a href="https://
+ dl.portaone.com/mod/page/view.php?id=11847">Lab: Linux Router</a></span></
+ span></span><span><br><span><span> </span></span><br><span><span><span><s
+ pan> </span><span>Години занять: </span><br><span>- 10:00 <
+ /span><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:0
+ 0</span></span></span></span> </span></span></span></span></span></span></
+ span></span>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yq
+ v\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9
+ 282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260601T160000
+DTEND;TZID="UTC+03:00":20260601T180000
+UID:6953dafb-c79f-4f99-9331-88a4295e589e@lna-fragment-2026-06-01-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- </span></span></span></span></span></
+ span></span></span></span></span></span></span></span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><a href="https://dl.po
+ rtaone.com/mod/page/view.php?id=11847" target="_blank">Lab: Linux Router</
+ a></span></span></span></span></span></span></span></span></span></span></
+ span></span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span></span></span></span></span></span></span></span></span></
+ span></span></span><br><span><span><span><span><span><span><span><span><sp
+ an><br><span><span><span><span><span><span><span><span><span><span>Для 
+ закріплення отриманих знань можете спро
+ бувати:</span></span></span></span></span></span></span></span></spa
+ n></span> <br><span><span>- <a href="https://dl.portaone.com/mod/quiz/vie
+ w.php?id=11848">Self-check: Linux router</a></span></span></span></span></
+ span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Основи iptables: фільтрація
+DTSTART;TZID="UTC+03:00":20260603T140000
+DTEND;TZID="UTC+03:00":20260603T160000
+UID:913ad62c-5c94-4ed7-ac62-62b5f1340909@lna-fragment-2026-06-03-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><font><font><span><span><span><span><span><span><span><a h
+ ref="/"></a>До заняття переглянути відео та п
+ ередивитись матеріали з розділів:</span></spa
+ n></span> </span></span></span></span></font></font></span></span></span>
+ <br><span><span><span><font><font><span><span><span><span>- <a href="https
+ ://dl.portaone.com/mod/page/view.php?id=11851">Основи iptables: фі
+ льтрація</a></span></span></span></span></font></font></span></spa
+ n></span></span><span><br><span> </span></span></span></span></span></spa
+ n></span></span></span></span></span><br><span><span><span><span><span><sp
+ an><span><span><span><span><span>На занятті:<br>- <a href="https
+ ://dl.portaone.com/mod/page/view.php?id=11852">Lab: робота з пор
+ тами та правилами фільтрації</a></span></span></s
+ pan></span></span></span></span></span></span></span></span><br><span><spa
+ n><span><span><span><span><span><span><span><span> </span></span><br><spa
+ n><span><span><span> </span><span>Години занять: </span><br>
+ <span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span>
+ <br><span>- 19:00</span></span></span></span> </span></span></span></span>
+ </span></span></span></span>\n\nJoin with Google Meet: https://meet.google
+ .com/crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.com/
+ a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260603T160000
+DTEND;TZID="UTC+03:00":20260603T180000
+UID:9cfbca5a-a8b2-4ca0-887b-beefe296adba@lna-fragment-2026-06-03-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span></span></span></span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span>-
+  <a href="https://dl.portaone.com/mod/page/view.php?id=11852" target="_bl
+ ank">Lab: робота з портами та правилами філь
+ трації</a></span></span></span></span></span></span></span></span></
+ span></span></span></span></span><span><span><span></span><br><span><span>
+ <span><span><span><span><span><span><span><br><span><span><span><span><spa
+ n><span><span><span><span><span>Для закріплення отрима
+ них знань можете спробувати:</span></span></span><
+ /span></span></span></span></span></span></span> <br><span><span>- </span
+ ></span></span></span></span></span></span></span></span></span><a href="h
+ ttps://dl.portaone.com/mod/quiz/view.php?id=11853">Self-check: Iptables</a
+ ></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Перетворення мережевих адре
+ с (NAT)
+DTSTART;TZID="UTC+03:00":20260608T140000
+DTEND;TZID="UTC+03:00":20260608T160000
+UID:3d19c18a-cbd8-465b-bb8f-d19f5ae83cfe@lna-fragment-2026-06-08-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><font><font><span><span><span><span><span><span><span>До
+  заняття переглянути відео та передивит
+ ись матеріали з розділів:</span></span></span> </spa
+ n></span></span></span></font></font></span></span></span><br><span><span>
+ <span><font><font><span><span><span><span>- <a href="https://dl.portaone.c
+ om/mod/page/view.php?id=11856">Перетворення мережевих
+  адрес (NAT)</a></span></span></span></span></font></font></span></sp
+ an></span></span><span><br><span> </span></span></span></span></span></sp
+ an></span></span></span></span></span><br><span><span><span><span><span><s
+ pan><span><span><span><span><span>На занятті:<br>- <a href="http
+ s://dl.portaone.com/mod/page/view.php?id=11857">Lab: Налаштуван
+ ня NAT</a></span></span></span></span></span></span></span></span></span
+ ></span></span><br><span><span><span><span><span><span><span><span><span><
+ span> </span></span><br><span><span><span><span> </span><span>Годин
+ и занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </sp
+ an><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span>
+  </span></span></span></span></span></span></span></span>\n\nJoin with Goo
+ gle Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at
+ : https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART;TZID="UTC+03:00":20260608T160000
+DTEND;TZID="UTC+03:00":20260608T180000
+UID:529105fe-6c8e-4a1c-b664-1394a2178963@lna-fragment-2026-06-08-group2@fi
+ ltered.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span></span></span></span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span>-
+  <a href="https://dl.portaone.com/mod/page/view.php?id=11857" target="_bl
+ ank">Lab: Налаштування NAT</a></span></span></span></span></sp
+ an></span></span></span></span></span></span></span></span><span><span><sp
+ an></span><br><span><span><span><span><span><span><span><span><span><br><s
+ pan><span><span><span><span><span><span><span><span><span>Для закр
+ іплення отриманих знань можете спробува
+ ти:</span></span></span></span></span></span></span></span></span></span
+ > <br><span><span>- </span></span></span></span></span></span></span></sp
+ an></span></span><a href="https://dl.portaone.com/mod/quiz/view.php?id=118
+ 58">Self-check: NAT</a></span></span></span>
 LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
