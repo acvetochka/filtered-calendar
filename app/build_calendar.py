@@ -105,17 +105,23 @@ def build_filtered_calendar_data(
         new_dtstart = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
         new_dtend = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
 
+        # Очищаємо оригінальний UID від @google.com або @lna-fragment, щоб уникнути каші з '@'
+        safe_uid = uid.split('@')[0]        
+
         output["events"].append({
             "summary": summary,
             "description": description,
             "location": location,
             "dtstart": new_dtstart.isoformat(),
             "dtend": new_dtend.isoformat(),
-            "uid": f"{uid}-{base_date}-group{selected_group}@filtered.local",
+            "uid": f"{safe_uid}-{base_date}-group{selected_group}@filtered.local",
             "weekday": base_date.weekday(),
             "source_date": config["date_source"],
             "sequence": sequence
         })
+
+    print(f"--- ГРУПА {selected_group} ---")
+    print(f"Кількість подій ДО дедуплікації: {len(output['events'])}")
     
     output["events"] = deduplicate_events(output["events"])
 
