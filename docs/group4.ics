@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Alona Kuznietsova//LNA Filtered Calendar//UK
+PRODID:-//Alona Kuznietsova//LNA Filtered Calendar v2//UK
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 DESCRIPTION:Calendar for course Linux & Network Administration - Group4
