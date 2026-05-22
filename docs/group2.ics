@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Інтерфейс командного рядку
 DTSTART;TZID="UTC+02:00":20260309T140000
 DTEND;TZID="UTC+02:00":20260309T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-09-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-09-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+02:00":20260309T160000
 DTEND;TZID="UTC+02:00":20260309T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-09-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-09-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Файлова система
 DTSTART;TZID="UTC+02:00":20260311T140000
 DTEND;TZID="UTC+02:00":20260311T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-11-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-11-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+02:00":20260311T160000
 DTEND;TZID="UTC+02:00":20260311T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-11-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-11-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Користувачі та права доступу
 DTSTART;TZID="UTC+02:00":20260316T140000
 DTEND;TZID="UTC+02:00":20260316T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-16-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-16-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+02:00":20260316T160000
 DTEND;TZID="UTC+02:00":20260316T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-16-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-16-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -214,7 +214,7 @@ SUMMARY:1. Тема: Процеси та перенаправлення в
  воду/виводу
 DTSTART;TZID="UTC+02:00":20260318T140000
 DTEND;TZID="UTC+02:00":20260318T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-18-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-18-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+02:00":20260318T160000
 DTEND;TZID="UTC+02:00":20260318T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-18-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-18-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Траблшутінг швидкодії
 DTSTART;TZID="UTC+02:00":20260323T140000
 DTEND;TZID="UTC+02:00":20260323T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-23-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-23-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+02:00":20260323T160000
 DTEND;TZID="UTC+02:00":20260323T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-03-23-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-03-23-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Розбір мешапу LB
 DTSTART;TZID="UTC+03:00":20260330T140000
 DTEND;TZID="UTC+03:00":20260330T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-03-30-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-03-30-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Системні утиліти
 DTSTART;TZID="UTC+03:00":20260401T140000
 DTEND;TZID="UTC+03:00":20260401T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-01-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-01-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -419,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260401T160000
 DTEND;TZID="UTC+03:00":20260401T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-01-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-01-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Системні утиліти
 DTSTART;TZID="UTC+03:00":20260406T140000
 DTEND;TZID="UTC+03:00":20260406T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-06-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-06-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -484,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260406T160000
 DTEND;TZID="UTC+03:00":20260406T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-06-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-06-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема:  Регулярні вирази
 DTSTART;TZID="UTC+03:00":20260408T140000
 DTEND;TZID="UTC+03:00":20260408T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-08-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-08-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260408T160000
 DTEND;TZID="UTC+03:00":20260408T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-08-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-08-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span><span><spa
@@ -577,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Обробка тексту
 DTSTART;TZID="UTC+03:00":20260413T140000
 DTEND;TZID="UTC+03:00":20260413T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-13-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-13-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260413T160000
 DTEND;TZID="UTC+03:00":20260413T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-13-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-13-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Bash scripting
 DTSTART;TZID="UTC+03:00":20260415T140000
 DTEND;TZID="UTC+03:00":20260415T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-15-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-15-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -671,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260415T160000
 DTEND;TZID="UTC+03:00":20260415T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-15-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-15-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -699,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Вступ до комп'ютерних мереж
 DTSTART;TZID="UTC+03:00":20260422T140000
 DTEND;TZID="UTC+03:00":20260422T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-22-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-22-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260422T160000
 DTEND;TZID="UTC+03:00":20260422T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-22-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-22-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -760,7 +760,7 @@ SUMMARY:1. Тема: Комп'ютерні мережі: фізичний
  та канальний рівні
 DTSTART;TZID="UTC+03:00":20260427T140000
 DTEND;TZID="UTC+03:00":20260427T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-27-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-27-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260427T160000
 DTEND;TZID="UTC+03:00":20260427T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-27-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-27-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -818,7 +818,7 @@ SUMMARY:1. Тема: Комп'ютерні мережі: мережеви
  й рівень
 DTSTART;TZID="UTC+03:00":20260429T140000
 DTEND;TZID="UTC+03:00":20260429T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-04-29-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-04-29-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260429T160000
 DTEND;TZID="UTC+03:00":20260429T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-04-29-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-04-29-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -876,7 +876,7 @@ SUMMARY:1. Тема: Налаштування та контроль мер
  ежі
 DTSTART;TZID="UTC+03:00":20260504T140000
 DTEND;TZID="UTC+03:00":20260504T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-04-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-04-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260504T160000
 DTEND;TZID="UTC+03:00":20260504T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-04-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-04-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -934,7 +934,7 @@ SUMMARY:1. Тема: Комп'ютерні мережі: транспор
  тний рівень
 DTSTART;TZID="UTC+03:00":20260506T140000
 DTEND;TZID="UTC+03:00":20260506T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-06-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-06-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260506T160000
 DTEND;TZID="UTC+03:00":20260506T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-06-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-06-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -992,7 +992,7 @@ SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
  ий рівень
 DTSTART;TZID="UTC+03:00":20260511T140000
 DTEND;TZID="UTC+03:00":20260511T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-11-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-11-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -1021,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260511T160000
 DTEND;TZID="UTC+03:00":20260511T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-11-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-11-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1052,7 +1052,7 @@ SUMMARY:1. Тема: Комп'ютерні мережі: прикладн
  ий рівень
 DTSTART;TZID="UTC+03:00":20260513T140000
 DTEND;TZID="UTC+03:00":20260513T160000
-UID:64op4upcnirr6hjb4q3vc5qcrg@google.com-2026-05-13-group2@filtered.local
+UID:64op4upcnirr6hjb4q3vc5qcrg-2026-05-13-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><font><font><span><span><span><span><span><spa
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260513T160000
 DTEND;TZID="UTC+03:00":20260513T180000
-UID:35alhldht1g1t4dc76p5ovqjg3@google.com-2026-05-13-group2@filtered.local
+UID:35alhldht1g1t4dc76p5ovqjg3-2026-05-13-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1122,8 +1122,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Мережеві утиліти
 DTSTART;TZID="UTC+03:00":20260520T140000
 DTEND;TZID="UTC+03:00":20260520T160000
-UID:00d596c4-bd65-4ab7-9f73-b97ea63f2dc1@lna-fragment-2026-05-20-group2@fi
- ltered.local
+UID:00d596c4-bd65-4ab7-9f73-b97ea63f2dc1-2026-05-20-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1150,8 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260520T160000
 DTEND;TZID="UTC+03:00":20260520T180000
-UID:6269252d-213e-4f1e-9525-a80683476456@lna-fragment-2026-05-20-group2@fi
- ltered.local
+UID:6269252d-213e-4f1e-9525-a80683476456-2026-05-20-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1184,8 +1182,7 @@ SUMMARY:1. Тема: Робота з ІP-адресами та маска
  ми
 DTSTART;TZID="UTC+03:00":20260525T140000
 DTEND;TZID="UTC+03:00":20260525T160000
-UID:53875770-e62e-4d1c-be74-a5581fa91da4@lna-fragment-2026-05-25-group2@fi
- ltered.local
+UID:53875770-e62e-4d1c-be74-a5581fa91da4-2026-05-25-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1212,8 +1209,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260525T160000
 DTEND;TZID="UTC+03:00":20260525T180000
-UID:6e0165a3-2a8d-450d-9d4c-d0b9a5fbcf71@lna-fragment-2026-05-25-group2@fi
- ltered.local
+UID:6e0165a3-2a8d-450d-9d4c-d0b9a5fbcf71-2026-05-25-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1239,8 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: ІР маршрутизація
 DTSTART;TZID="UTC+03:00":20260527T140000
 DTEND;TZID="UTC+03:00":20260527T160000
-UID:393ca4ac-4e9e-4c15-b874-cee2783e383e@lna-fragment-2026-05-27-group2@fi
- ltered.local
+UID:393ca4ac-4e9e-4c15-b874-cee2783e383e-2026-05-27-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1266,8 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260527T160000
 DTEND;TZID="UTC+03:00":20260527T180000
-UID:18769d7a-ad53-44b7-a85c-632771a689da@lna-fragment-2026-05-27-group2@fi
- ltered.local
+UID:18769d7a-ad53-44b7-a85c-632771a689da-2026-05-27-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1298,8 +1292,7 @@ SUMMARY:1. Тема: Налаштування Linux-маршрутизат
  ора
 DTSTART;TZID="UTC+03:00":20260601T140000
 DTEND;TZID="UTC+03:00":20260601T160000
-UID:38270e55-1442-48fc-9196-985466d56625@lna-fragment-2026-06-01-group2@fi
- ltered.local
+UID:38270e55-1442-48fc-9196-985466d56625-2026-06-01-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><font><font><span><span><span><span><span><span><span>До за
@@ -1326,8 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260601T160000
 DTEND;TZID="UTC+03:00":20260601T180000
-UID:6953dafb-c79f-4f99-9331-88a4295e589e@lna-fragment-2026-06-01-group2@fi
- ltered.local
+UID:6953dafb-c79f-4f99-9331-88a4295e589e-2026-06-01-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1356,8 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:1. Тема: Основи iptables: фільтрація
 DTSTART;TZID="UTC+03:00":20260603T140000
 DTEND;TZID="UTC+03:00":20260603T160000
-UID:913ad62c-5c94-4ed7-ac62-62b5f1340909@lna-fragment-2026-06-03-group2@fi
- ltered.local
+UID:913ad62c-5c94-4ed7-ac62-62b5f1340909-2026-06-03-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><font><font><span><span><span><span><span><span><span><a h
@@ -1388,8 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260603T160000
 DTEND;TZID="UTC+03:00":20260603T180000
-UID:9cfbca5a-a8b2-4ca0-887b-beefe296adba@lna-fragment-2026-06-03-group2@fi
- ltered.local
+UID:9cfbca5a-a8b2-4ca0-887b-beefe296adba-2026-06-03-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
@@ -1417,8 +1407,7 @@ SUMMARY:1. Тема: Перетворення мережевих адре
  с (NAT)
 DTSTART;TZID="UTC+03:00":20260608T140000
 DTEND;TZID="UTC+03:00":20260608T160000
-UID:3d19c18a-cbd8-465b-bb8f-d19f5ae83cfe@lna-fragment-2026-06-08-group2@fi
- ltered.local
+UID:3d19c18a-cbd8-465b-bb8f-d19f5ae83cfe-2026-06-08-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><font><font><span><span><span><span><span><span><span>До
@@ -1448,8 +1437,7 @@ BEGIN:VEVENT
 SUMMARY:2. Домашне завдання:
 DTSTART;TZID="UTC+03:00":20260608T160000
 DTEND;TZID="UTC+03:00":20260608T180000
-UID:529105fe-6c8e-4a1c-b664-1394a2178963@lna-fragment-2026-06-08-group2@fi
- ltered.local
+UID:529105fe-6c8e-4a1c-b664-1394a2178963-2026-06-08-group2@filtered.local
 SEQUENCE:0
 DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
  pan><span><span><span><span><span><span><span><span><span><span>Завер
