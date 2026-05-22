@@ -148,7 +148,7 @@ def build_filtered_calendar_data(
         naive_end = datetime.combine(base_date, parse_hhmm(end_str))
 
         # 2. Явно кажемо Python, що цей час записаний за КИЄВОМ (локальний час сайту розкладу)
-        from zoneinfo import ZoneInfo
+        # from zoneinfo import ZoneInfo
         TZ_KIEV = ZoneInfo("Europe/Kiev")
 
         local_start = naive_start.replace(tzinfo=TZ_KIEV)
