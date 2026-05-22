@@ -134,12 +134,27 @@ def build_filtered_calendar_data(
         # new_dtstart = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
         # new_dtend = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
 
-        # 1. Спочатку створюємо час у локальному поясі (Europe/Kiev)
-        local_start = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
-        local_end = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
+        # # 1. Спочатку створюємо час у локальному поясі (Europe/Kiev)
+        # local_start = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
+        # local_end = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
 
-        # 2. Конвертуємо в UTC за допомогою .astimezone()
-        # Python автоматично відніме потрібну кількість годин (2 або 3 залежно від сезону)
+        # # 2. Конвертуємо в UTC за допомогою .astimezone()
+        # # Python автоматично відніме потрібну кількість годин (2 або 3 залежно від сезону)
+        # new_dtstart = local_start.astimezone(ZoneInfo("UTC"))
+        # new_dtend = local_end.astimezone(ZoneInfo("UTC"))
+
+        # 1. Створюємо чистий datetime БЕЗ tzinfo
+        naive_start = datetime.combine(base_date, parse_hhmm(start_str))
+        naive_end = datetime.combine(base_date, parse_hhmm(end_str))
+
+        # 2. Явно кажемо Python, що цей час записаний за КИЄВОМ (локальний час сайту розкладу)
+        from zoneinfo import ZoneInfo
+        TZ_KIEV = ZoneInfo("Europe/Kiev")
+
+        local_start = naive_start.replace(tzinfo=TZ_KIEV)
+        local_end = naive_end.replace(tzinfo=ZoneInfo("Europe/Kiev"))
+
+        # 3. І ТЕПЕР конвертуємо в абсолютний UTC (з літерою Z)
         new_dtstart = local_start.astimezone(ZoneInfo("UTC"))
         new_dtend = local_end.astimezone(ZoneInfo("UTC"))
 
