@@ -23,7 +23,8 @@ from app.save_ics import save_ics
 
 def generate_group(group_id: int, with_json: bool = False):
     data = build_filtered_calendar_data(
-        ics_url=ICS_URL,
+        ics_source=ICS_URL,
+        # ics_source=INPUT_ICS,
         selected_group=group_id,
         start_from_date=START_FROM_DATE,
     )

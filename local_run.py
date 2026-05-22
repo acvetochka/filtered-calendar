@@ -3,8 +3,11 @@ from app.save_json import save_json
 from app.save_ics import save_ics
 from constants.variables import ICS_URL, SELECTED_GROUP, START_FROM_DATE, OUTPUT_JSON
 
+INPUT_ICS = 'basic (3).ics'
+
 data = build_filtered_calendar_data(
-    ics_url=ICS_URL,
+    # ics_source=ICS_URL,
+    ics_source=INPUT_ICS,
     selected_group=SELECTED_GROUP,
     start_from_date=START_FROM_DATE,
 )

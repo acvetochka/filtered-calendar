@@ -1,7 +1,8 @@
+import os
 
 from datetime import datetime
 from zoneinfo import ZoneInfo
-from urllib.request import urlopen
+from urllib.request import  Request, urlopen
 from icalendar import Calendar
 
 from constants.group import GROUPS
@@ -11,15 +12,34 @@ from helpers.deduplicate_events import deduplicate_events
 
 
 def build_filtered_calendar_data(
-    ics_url: str,
+    ics_source: str, # Може бути як URL (http...), так і шлях до файлу ('basic (3).ics')
     selected_group: int,
     start_from_date=None,
 ) -> dict:
     config = GROUPS[selected_group]
 
-    with urlopen(ics_url) as response:
-        cal = Calendar.from_ical(response.read())
+    # with urlopen(ics_url) as response:
+    #     cal = Calendar.from_ical(response.read())
 
+    # Перевірка: джерело — це URL-адреса чи локальний файл
+    if ics_source.startswith(("http://", "https://")):
+         # 1. Додаємо випадкове число (час), щоб обійти кеш сервера
+        separator = "&" if "?" in ics_source else "?"
+        nocache_url = f"{ics_source}{separator}t={int(time.time())}"
+        
+        # 2. Маскуємо запит під звичайний браузер (сервери це люблять)
+        req = Request(
+            nocache_url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        )
+        with urlopen(ics_source) as response:
+            cal = Calendar.from_ical(response.read())
+    else:
+        # Читаємо локальний .ics файл
+        if not os.path.exists(ics_source):
+            raise FileNotFoundError(f"Локальний файл не знайдено: {ics_source}")
+        with open(ics_source, "rb") as f:
+            cal = Calendar.from_ical(f.read())
 
     original_name = str(cal.get("X-WR-CALNAME", "Calendar"))
     original_timezone = str(cal.get("X-WR-TIMEZONE", "Europe/Kiev"))
