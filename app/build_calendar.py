@@ -51,6 +51,7 @@ def build_filtered_calendar_data(
     output = {
         "calendar_meta": {
             "prodid": "-//Alona Kuznietsova//LNA Filtered Calendar//UK",
+            "version": "2.1",  
             "name": f"{original_name}_Group{selected_group}",
             "timezone": original_timezone,
             "description": f"{original_description} - Group{selected_group}",
