@@ -5,16 +5,22 @@ def get_event_type(summary: str) -> str:
     """
     Визначає тип події за назвою:
     - 'lesson' для 1. ... і подій без цифри на початку
+    - 'mashup' для назв, що починаються з Mashup (без цифри)
     - 'homework' для 2. ...
     - None для всього іншого
     """
     summary = summary.strip()
+    summary_lower = summary.lower()
 
     # if summary.startswith("1."):
     #     return "lesson"
 
     if summary.startswith("2."):
         return "homework"
+    
+    # 2. Перевірка на Mashup на початку назви (без цифри перед ним)
+    if summary_lower.startswith("mashup"):
+        return "mashup"
 
     # if not summary[:1].isdigit():
     #     return "lesson"

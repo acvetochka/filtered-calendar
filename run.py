@@ -14,16 +14,17 @@
 
 import argparse
 from constants.group import GROUPS
-from constants.variables import ICS_URL, START_FROM_DATE
+from constants.variables import ICS_URL, START_FROM_DATE, MASHUP_URL
 
 from app.build_calendar import build_filtered_calendar_data
 from app.save_json import save_json
 from app.save_ics import save_ics
 
+URLs = [ICS_URL, MASHUP_URL]
 
 def generate_group(group_id: int, with_json: bool = False):
     data = build_filtered_calendar_data(
-        ics_source=ICS_URL,
+        ics_source=URLs,
         # ics_source=INPUT_ICS,
         selected_group=group_id,
         start_from_date=START_FROM_DATE,

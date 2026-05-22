@@ -5,6 +5,7 @@ import os
 load_dotenv()
 MEET_URL = os.getenv("MEET_URL")
 ICS_URL = os.getenv("ICS_URL")
+MASHUP_URL = os.getenv("MASHUP_URL")
 
 # Обери групу тут:
 SELECTED_GROUP = 1

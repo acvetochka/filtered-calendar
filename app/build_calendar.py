@@ -13,7 +13,7 @@ from helpers.deduplicate_events import deduplicate_events
 
 
 def build_filtered_calendar_data(
-    ics_source: str, # Може бути як URL (http...), так і шлях до файлу ('basic (3).ics')
+    ics_source: list, # ПРИЙМАЄ СПИСОК: [url_lessons, url_mashups]. Може бути як URL (http...), так і шлях до файлу ('basic (3).ics')
     selected_group: int,
     start_from_date=None,
 ) -> dict:
@@ -23,28 +23,47 @@ def build_filtered_calendar_data(
     #     cal = Calendar.from_ical(response.read())
 
     # Перевірка: джерело — це URL-адреса чи локальний файл
-    if ics_source.startswith(("http://", "https://")):
-         # 1. Додаємо випадкове число (час), щоб обійти кеш сервера
-        separator = "&" if "?" in ics_source else "?"
-        nocache_url = f"{ics_source}{separator}t={int(time.time())}"
+    # if ics_source.startswith(("http://", "https://")):
+    #      # 1. Додаємо випадкове число (час), щоб обійти кеш сервера
+    #     separator = "&" if "?" in ics_source else "?"
+    #     nocache_url = f"{ics_source}{separator}t={int(time.time())}"
         
-        # 2. Маскуємо запит під звичайний браузер (сервери це люблять)
-        req = Request(
-            nocache_url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        )
-        with urlopen(ics_source) as response:
-            cal = Calendar.from_ical(response.read())
-    else:
-        # Читаємо локальний .ics файл
-        if not os.path.exists(ics_source):
-            raise FileNotFoundError(f"Локальний файл не знайдено: {ics_source}")
-        with open(ics_source, "rb") as f:
-            cal = Calendar.from_ical(f.read())
+    #     # 2. Маскуємо запит під звичайний браузер (сервери це люблять)
+    #     req = Request(
+    #         nocache_url, 
+    #         headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    #     )
+    #     with urlopen(ics_source) as response:
+    #         cal = Calendar.from_ical(response.read())
+    # else:
+    #     # Читаємо локальний .ics файл
+    #     if not os.path.exists(ics_source):
+    #         raise FileNotFoundError(f"Локальний файл не знайдено: {ics_source}")
+    #     with open(ics_source, "rb") as f:
+    #         cal = Calendar.from_ical(f.read())
 
-    original_name = str(cal.get("X-WR-CALNAME", "Calendar"))
+    # Створюємо пустий масив, куди збиратимемо сирі компоненти з усіх календарів
+    all_components = []
+
+    # Проходимо по кожному джерелу і зчитуємо його
+    for source in ics_source:
+        if source.startswith(("http://", "https://")):
+            from urllib.request import Request, urlopen
+            import time
+            nocache_url = f"{source}{'&' if '?' in source else '?'}t={int(time.time())}"
+            req = Request(nocache_url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urlopen(req) as response:
+                cal = Calendar.from_ical(response.read())
+        else:
+            with open(source, "rb") as f:
+                cal = Calendar.from_ical(f.read())
+        
+        # Збираємо лише VEVENT з цього календаря у спільний список
+        all_components.extend([c for c in cal.walk() if c.name == "VEVENT"])
+
+    # original_name = str(cal.get("X-WR-CALNAME", "Calendar"))
     original_timezone = str(cal.get("X-WR-TIMEZONE", "Europe/Kiev"))
-    original_description = str(cal.get("X-WR-CALDESC", ""))
+    # original_description = str(cal.get("X-WR-CALDESC", ""))
 
     TZ = ZoneInfo(original_timezone)
 
@@ -52,15 +71,18 @@ def build_filtered_calendar_data(
         "calendar_meta": {
             "prodid": "-//Alona Kuznietsova//LNA Filtered Calendar v2//UK",
             "version": "2.1",  
-            "name": f"{original_name}_Group{selected_group}",
+            "name": f"LNA_Group{selected_group}",
             "timezone": original_timezone,
-            "description": f"{original_description} - Group{selected_group}",
+            # "description": f"{original_description} - Group{selected_group}",
+            "description": f" Об'єднаний календар розкладу та мешапів для Групи{selected_group}",
             "group": selected_group
         },
         "events": []
     }
 
-    for component in cal.walk():
+    # for component in cal.walk():
+    # Тепер ітеруємося по об'єднаному списку подій
+    for component in all_components:
         if component.name != "VEVENT":
             continue
 
@@ -98,10 +120,16 @@ def build_filtered_calendar_data(
         if event_type is None:
             continue
 
-        if event_type == "lesson":
+        # Визначаємо час: якщо це lesson АБО mashup — беремо час лекції
+        if event_type in ["lesson", "mashup"]:
             start_str, end_str = config["lesson_time"]
         else:
             start_str, end_str = config["homework_time"]
+
+        # if event_type == "lesson":
+        #     start_str, end_str = config["lesson_time"]
+        # else:
+        #     start_str, end_str = config["homework_time"]
 
         # new_dtstart = datetime.combine(base_date, parse_hhmm(start_str), tzinfo=TZ)
         # new_dtend = datetime.combine(base_date, parse_hhmm(end_str), tzinfo=TZ)
@@ -124,7 +152,7 @@ def build_filtered_calendar_data(
             "location": location,
             "dtstart": new_dtstart.isoformat(),
             "dtend": new_dtend.isoformat(),
-            "uid": f"{safe_uid}-{base_date}-group{selected_group}@filtered.local",
+            "uid": f"{safe_uid}-{base_date}-{event_type}-group{selected_group}@filtered.local",
             "weekday": base_date.weekday(),
             "source_date": config["date_source"],
             "sequence": sequence

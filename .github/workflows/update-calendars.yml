@@ -24,6 +24,7 @@ jobs:
 
     env:
       ICS_URL: ${{ secrets.ICS_URL }}
+      MASHUP_URL: ${{ secrets.MASHUP_URL}}
 
     steps:
       - name: Checkout repo
