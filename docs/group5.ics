@@ -1481,4 +1481,511 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Вступ до систем керування ба
+ зами даних (СКБД)
+DTSTART:20260616T070000Z
+DTEND:20260616T090000Z
+UID:c677a979-c19b-470c-a34c-f0f534052cfc-2026-06-16-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11863"> В
+ ступ до систем керування базами даних (С
+ КБД)</a></span></span></span></span></font></font></span></span></span>
+ </span><span><br><span> </span></span></span></span></span></span></span>
+ </span></span></span></span><br><span><span><span><span><span><span><span>
+ <span><span><span><span>На занятті:<br>- <a href="https://dl.por
+ taone.com/mod/page/view.php?id=11864">Lab: Встановлення і б
+ азове налаштування Percona MySQL</a></span></span></span>
+ </span></span></span></span></span></span></span></span><br><span><span><s
+ pan><span><span><span><span><span><span><span> </span></span><br><span><s
+ pan><span><span> </span><span>Години занять: </span><br><spa
+ n>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span><br>
+ <span>- 19:00</span></span></span></span> </span></span></span></span></sp
+ an></span></span></span>\n\nJoin with Google Meet: https://meet.google.com
+ /crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.com/a/us
+ ers/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260616T090000Z
+DTEND:20260616T110000Z
+UID:2359017c-8af8-4deb-b3fd-cf838e6f00bd-2026-06-16-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11864">Lab: Встановлення і базове на
+ лаштування Percona MySQL</a></span></span></span></span></span><
+ /span></span></span></span></span></span><br><span><span><span><span><span
+ ><span><span><span><span><br><span><span><span><span><span><span><span><sp
+ an><span><span>Для закріплення отриманих знань
+  можете спробувати:</span></span></span></span></span></sp
+ an></span></span></span></span> <br><span><span>- <a href="https://dl.port
+ aone.com/mod/quiz/view.php?id=11865">Self-check: Вступ до СКБД<
+ /a></span></span></span></span></span></span></span></span></span></span><
+ /span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Основи роботи з MySQL
+DTSTART:20260618T070000Z
+DTEND:20260618T090000Z
+UID:c5a0e0cd-f23e-4f8a-ba3c-aa6eda7947bc-2026-06-18-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11868">Ос
+ нови роботи з MySQL</a></span></span></span></span></font></fon
+ t></span></span></span></span><span><br><span> </span></span></span></spa
+ n></span></span></span></span></span></span></span><br><span><span><span><
+ span><span><span><span><span><span><span><span>На занятті:<br>- 
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11869">Lab: Осно
+ ви роботи з MySQL</a></span></span></span></span></span></span></
+ span></span></span></span></span><br><span><span><span><span><span><span><
+ span><span><span><span> </span></span><br><span><span><span><span> </spa
+ n><span>Години занять: </span><br><span>- 10:00 </span><br><
+ span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></s
+ pan></span></span> </span></span></span></span></span></span></span></span
+ >\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn 
+ more about Meet at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260618T090000Z
+DTEND:20260618T110000Z
+UID:15f62f48-67e0-4396-a6fa-2159aae22992-2026-06-18-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11869">Lab: Основи роботи з MySQL</a></span><
+ /span></span></span></span></span></span></span></span></span></span><br><
+ span><span><span><span><span><span><span><span><span><br><span><span><span
+ ><span><span><span><span><span><span><span>Для закріплення 
+ отриманих знань можете спробувати:</span></s
+ pan></span></span></span></span></span></span></span></span> <br><span><sp
+ an>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11870">Self-ch
+ eck: Робота з MySQL</a></span></span></span></span></span></span></
+ span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Налаштування MySQL
+DTSTART:20260623T070000Z
+DTEND:20260623T090000Z
+UID:e5b7f20e-d0a1-4bc8-8dbb-e6033eebfd18-2026-06-23-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11872">На
+ лаштування MySQL</a></span></span></span></span></font></font></
+ span></span></span></span><span><br><span> </span></span></span></span></
+ span></span></span></span></span></span></span><br><span><span><span><span
+ ><span><span><span><span><span><span><span>На занятті:<br>- <a h
+ ref="https://dl.portaone.com/mod/page/view.php?id=11873">Lab: Налашт
+ ування MySQL та робота з журналами</a></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span> </span></span><br
+ ><span><span><span><span> </span><span>Години занять: </span
+ ><br><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </
+ span><br><span>- 19:00</span></span></span></span> </span></span></span></
+ span></span></span></span></span>\n\nJoin with Google Meet: https://meet.g
+ oogle.com/crm-eynx-yqv\n\nLearn more about Meet at: https://support.google
+ .com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260623T090000Z
+DTEND:20260623T110000Z
+UID:d685309e-8bda-424b-9ba5-8d060535bc11-2026-06-23-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11873">Lab: Налаштування MySQL та робот
+ а з журналами</a></span></span></span></span></span></span></sp
+ an></span></span></span></span><br><span><span><span><span><span><span><sp
+ an><span><span><br><span><span><span><span><span><span><span><span><span><
+ span>Для закріплення отриманих знань може
+ те спробувати:</span></span></span></span></span></span></span
+ ></span></span></span> <br><span><span>- </span></span></span></span></sp
+ an></span></span></span></span></span><a href="https://dl.portaone.com/mod
+ /quiz/view.php?id=11874">Self-check: Налаштування MySQL</a></s
+ pan></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Користувачі і привілеї MySQL
+DTSTART:20260625T070000Z
+DTEND:20260625T090000Z
+UID:d0f4d3a4-89e5-443e-b092-d0b0ee10b0c1-2026-06-25-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11876">Ко
+ ристувачі і привілеї MySQL</a></span></span></span></spa
+ n></font></font></span></span></span></span><span><br><span> </span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span><span>На заня
+ тті:<br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11877"
+ >Lab: Користувачі і привілеї MySQL</a></span></span></
+ span></span></span></span></span></span></span></span></span><br><span><sp
+ an><span><span><span><span><span><span><span><span> </span></span><br><sp
+ an><span><span><span> </span><span>Години занять: </span><br
+ ><span>- 10:00 </span><br><span>- 14:00 </span><br><span>- 17:00 </span
+ ><br><span>- 19:00</span></span></span></span> </span></span></span></span
+ ></span></span></span></span>\n\nJoin with Google Meet: https://meet.googl
+ e.com/crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.com
+ /a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260625T090000Z
+DTEND:20260625T110000Z
+UID:4c71215f-576d-41c2-b80b-890c9a02e63e-2026-06-25-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11877">Lab: Користувачі і привілеї MyS
+ QL</a></span></span></span></span></span></span></span></span></span></spa
+ n></span><br><span><span><span><span><span><span><span><span><span><br><sp
+ an><span><span><span><span><span><span><span><span><span>Для закрі
+ плення отриманих знань можете спробуват
+ и:</span></span></span></span></span></span></span></span></span></span> 
+ <br><span><span>- </span></span></span></span></span></span></span></span
+ ></span></span><a href="https://dl.portaone.com/mod/quiz/view.php?id=11878
+ "> Self-check: Користувачі та привілеї</a></span></sp
+ an></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: MySQL: Резервні копії
+DTSTART:20260630T070000Z
+DTEND:20260630T090000Z
+UID:0ee19769-0a0e-42a2-b4c1-2fe1ab59d62c-2026-06-30-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11880">MySQ
+ L: Резервні копії</a></span></span></span></span></font></fon
+ t></span></span></span></span><span><br><span> </span></span></span></spa
+ n></span></span></span></span></span></span></span><br><span><span><span><
+ span><span><span><span><span><span><span><span>На занятті:<br>- 
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11881">Lab: Резе
+ рвне копіювання</a></span></span></span></span></span></span
+ ></span></span></span></span></span><br><span><span><span><span><span><spa
+ n><span><span><span><span> </span></span><br><span><span><span><span> </
+ span><span>Години занять: </span><br><span>- 10:00 </span><b
+ r><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span>
+ </span></span></span> </span></span></span></span></span></span></span></s
+ pan>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n\nLea
+ rn more about Meet at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260630T090000Z
+DTEND:20260630T110000Z
+UID:deafac0c-74dd-4874-91f7-de0623d66552-2026-06-30-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11881">Lab: Резервне копіювання</a></spa
+ n></span></span></span></span></span></span></span></span></span></span><b
+ r><span><span><span><span><span><span><span><span><span><br><span><span><s
+ pan><span><span><span><span><span><span><span>Для закріпленн
+ я отриманих знань можете спробувати:</span>
+ </span></span></span></span></span></span></span></span></span> <br><span>
+ <span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11882">Self-
+ check: Резервні копії</a></span></span></span></span></span><
+ /span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Реплікація MySQL
+DTSTART:20260702T070000Z
+DTEND:20260702T090000Z
+UID:53acc911-123f-430b-871b-6656b824f900-2026-07-02-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11884">Ре
+ плікація MySQL</a></span></span></span></span></font></font></span
+ ></span></span></span><span><br><span> </span></span></span></span></span
+ ></span></span></span></span></span></span><br><span><span><span><span><sp
+ an><span><span><span><span><span><span>На занятті:<br>- <a href=
+ "https://dl.portaone.com/mod/page/view.php?id=11885">Lab: Налаштув
+ ання реплікації</a></span></span></span></span></span></span
+ ></span></span></span></span></span><br><span><span><span><span><span><spa
+ n><span><span><span><span> </span></span><br><span><span><span><span> </
+ span><span>Години занять: </span><br><span>- 10:00 </span><b
+ r><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</span>
+ </span></span></span> </span></span></span></span></span></span></span></s
+ pan>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n\nLea
+ rn more about Meet at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260702T090000Z
+DTEND:20260702T110000Z
+UID:4d3b357a-f41b-4568-b6bd-abc5fc43e4f2-2026-07-02-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span></span></span></span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span>-
+  <a href="https://dl.portaone.com/mod/page/view.php?id=11885" target="_bl
+ ank">Lab: Налаштування реплікації</a></span></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n><span><span><span></span><br><span><span><span><span><span><span><span><
+ span><span><br><span><span><span><span><span><span><span><span><span><span
+ >Для закріплення отриманих знань можете 
+ спробувати:</span></span></span></span></span></span></span></sp
+ an></span></span> <br><span><span>- <a href="https://dl.portaone.com/mod/q
+ uiz/view.php?id=11886">Self-check: Реплікація MySQL</a></span></
+ span></span></span></span></span></span></span></span></span><br><span><sp
+ an><span><span><span><span><span><span><span><span> </span></span></span>
+ </span></span></span></span></span></span></span><br><span><span><span><sp
+ an><span><span><span><span><span><span>Саме час почати/про
+ довжити/завершити:</span></span></span></span></span></spa
+ n></span></span></span></span><br><span><span><span><span><span><span><spa
+ n><span><span><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?
+ id=11888">Assignment: Робота з MySQL</a></span></span></span></span
+ ></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Мова структурованих запитів 
+ (SQL)
+DTSTART:20260707T070000Z
+DTEND:20260707T090000Z
+UID:f2e10b82-c985-48ff-aaae-db9495786b44-2026-07-07-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11890">Мо
+ ва структурованих запитів (SQL)</a></span></span></
+ span></span></font></font></span></span></span></span><span><br><span> </
+ span></span></span></span></span></span></span></span></span></span></span
+ ><br><span><span><span><span><span><span><span><span><span><span><span>Н
+ а занятті:<br>- <a href="https://dl.portaone.com/mod/lesson/view.
+ php?id=11891">Lab: Базові SQL-запити</a> </span></span></span
+ ></span></span></span></span></span></span></span></span><br><span><span><
+ span><span><span><span><span><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/lesson/view.php?id=11892">Lab: SQL (продовжен
+ ня)</a> </span></span></span></span></span></span></span></span></span>
+ </span></span><br><span><span><span><span><span><span><span><span><span><s
+ pan> </span></span><br><span><span><span><span> </span><span>Годин
+ и занять: </span><br><span>- 10:00 </span><br><span>- 14:00 </sp
+ an><br><span>- 17:00 </span><br><span>- 19:00</span></span></span></span>
+  </span></span></span></span></span></span></span></span>\n\nJoin with Goo
+ gle Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at
+ : https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260707T090000Z
+DTEND:20260707T110000Z
+UID:3baaa33e-b2b0-4c18-8adb-0cf4987a6d66-2026-07-07-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span>-
+  <a href="https://dl.portaone.com/mod/lesson/view.php?id=11891" target="_
+ blank">Lab: Базові SQL-запити</a> </span></span></span></span
+ ></span></span></span></span></span></span></span><br><span><span><span><s
+ pan><span><span><span><span><span><span><span>- <a href="https://dl.porta
+ one.com/mod/lesson/view.php?id=11892" target="_blank">Lab: SQL (продо
+ вження)</a></span></span></span></span></span></span></span></span><
+ /span></span></span></span></span><span><span><span><span><span><span><spa
+ n><span><span><span><span><span><span> </span></span></span></span></span
+ ></span></span></span></span></span></span><br><span><span><span><span><sp
+ an><span><span><span><span><br><span><span><span><span><span><span><span><
+ span><span><span>Для закріплення отриманих знан
+ ь можете спробувати:</span></span></span></span></span></
+ span></span></span></span></span> <br><span><span>- <a href="https://dl.po
+ rtaone.com/mod/quiz/view.php?id=11896">Self-check: SQL + JOINS</a></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Мова структурованих запитів 
+ (SQL) JOINS
+DTSTART:20260709T070000Z
+DTEND:20260709T090000Z
+UID:b5804259-4265-4100-8702-acc66fb21f1a-2026-07-09-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11890">Мо
+ ва структурованих запитів (SQL) JOINS</a></span></s
+ pan></span></span></font></font></span></span></span></span><span><br><spa
+ n> </span></span></span></span></span></span></span></span></span></span>
+ </span><br><span><span><span><span><span><span><span><span><span><span><sp
+ an>На занятті:<br>- <a href="https://dl.portaone.com/mod/page/vi
+ ew.php?id=11894">Lab: SQL JOINs</a> </span></span></span></span></span></
+ span></span></span></span></span></span><br><span><span><span><span><span>
+ <span><span><span><span><span> </span></span><br><span><span><span><span>
+  </span><span>Години занять: </span><br><span>- 10:00 </spa
+ n><br><span>- 14:00 </span><br><span>- 17:00 </span><br><span>- 19:00</s
+ pan></span></span></span> </span></span></span></span></span></span></span
+ ></span>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260709T090000Z
+DTEND:20260709T110000Z
+UID:ae9da399-2a35-4274-8568-d251c479a763-2026-07-09-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ </span></span></span></span></span></span></span></span></span><br><span><
+ span><span><span><span><span><span><span><span><span><span><span><span>- 
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11894" target="_blan
+ k">Lab: SQL JOINs</a></span></span></span></span></span></span></span></sp
+ an></span></span></span></span></span><span><span><span><span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span> </span></span></span></span></span></span></span></span>
+  </span></span></span></span></span></span></span></span></span></span></
+ span><br><span><span><span><span><span><span><span><span><span><br><span><
+ span><span><span><span><span><span><span><span><span>Для закріпл
+ ення отриманих знань можете спробувати:<
+ /span></span></span></span></span></span></span></span></span></span> <br>
+ <span><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11896"
+ >Self-check: SQL + JOINS</a></span></span></span></span></span></span></sp
+ an></span></span></span><br><span><span><span><span><span><span><span><spa
+ n><span><span> </span></span></span></span></span></span></span></span></
+ span></span><br><span><span><span><span><span><span><span><span><span><spa
+ n>Саме час почати/продовжити/завершити:</s
+ pan></span></span></span></span></span></span></span></span></span><br><sp
+ an><span><span><span><span><span><span><span><span><span>- <a href="https
+ ://dl.portaone.com/mod/quiz/view.php?id=11898">Assignment: SQL</a></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
