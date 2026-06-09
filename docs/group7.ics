@@ -1482,6 +1482,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚡ [Mashup] Mashup: Network advance
+DTSTART:20260611T140000Z
+DTEND:20260611T160000Z
+UID:1fo60c8fn4bfqpesfr558rqvvq-2026-06-11-mashup-group7@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11861" target="_blank">Quiz:
+  Network - module 2</a></b><br><br><span><span><span><span><span><span>Г
+ одини занять: </span><br><span>- 10:00 </span><br><span>- 14:
+ 00 </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span
+ ></span> </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:1. Тема: Вступ до систем керування ба
  зами даних (СКБД)
 DTSTART:20260616T140000Z
