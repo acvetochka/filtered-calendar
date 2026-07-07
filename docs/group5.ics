@@ -2006,4 +2006,275 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚡ [Mashup] Mashup: MySQL
+DTSTART:20260714T070000Z
+DTEND:20260714T090000Z
+UID:5hvq6kv6o9jo2hd51s5na91dd7-2026-07-14-mashup-group5@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11900" target="_blank">Quiz:
+  MySQL</a></b><br><br><span><span><span><span><span><span>Години з
+ анять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><b
+ r><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </sp
+ an></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Apache: налаштування і принцип р
+ оботи
+DTSTART:20260716T070000Z
+DTEND:20260716T090000Z
+UID:260fa9a7-8930-459e-a656-6e96ade47354-2026-07-16-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11902">Apac
+ he: налаштування і принцип роботи</a></span></sp
+ an></span></span></font></font></span></span></span></span><span><br><span
+ > </span></span></span></span></span></span></span></span></span></span><
+ /span><br><span><span><span><span><span><span><span><span><span><span><spa
+ n>На занятті:<br>- <a href="https://dl.portaone.com/mod/page/vie
+ w.php?id=11903">Lab: Налаштування віртуальних хо
+ стів</a></span></span></span></span></span></span></span></span></span
+ ></span></span><br><span><span><span><span><span><span><span><span><span><
+ span> </span></span><br><span><span><span><span> </span><span>\nГоди
+ ни занять: 10:00 | 14:00 | 17:00 | 19:00\n\nJoin with Google Meet:
+  https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: https:/
+ /support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260716T090000Z
+DTEND:20260716T110000Z
+UID:203a8cca-d824-4308-a7b4-773819ecbf1c-2026-07-16-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11903">Lab: Налаштування віртуальни
+ х хостів</a></span></span></span></span></span></span></span></span
+ ></span></span></span><br><span><span><span><span><span><span><span><span>
+ <span><br><span><span><span><span><span><span><span><span><span><span>Дл
+ я закріплення отриманих знань можете сп
+ робувати:</span></span></span></span></span></span></span></span><
+ /span></span> <br><span><span>- <a href="https://dl.portaone.com/mod/quiz/
+ view.php?id=11904">Self-check: Apache: налаштування і при
+ нцип роботи</a></span></span></span></span></span></span></span>
+ </span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Шифрування та SSL/TLS
+DTSTART:20260721T070000Z
+DTEND:20260721T090000Z
+UID:66583c55-1cd8-4321-9095-ba09ff684673-2026-07-21-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11911">Ши
+ фрування та SSL/TLS</a></span></span></span></span></font></font
+ ></span></span></span></span><span><br><span> </span></span></span></span
+ ></span></span></span></span></span></span></span><br><span><span><span><s
+ pan><span><span><span><span><span><span><span>На занятті:<br>- <
+ a href="https://dl.portaone.com/mod/page/view.php?id=11912">Lab: Нала
+ штування HTTPS (самопідписаний сертифікат)
+ </a></span></span></span></span></span></span></span></span></span></span>
+ </span><br><span><span><span><span><span><span><span><span><span><span><sp
+ an>- <a href="https://dl.portaone.com/mod/page/view.php?id=11913">Lab: А
+ наліз мережевого трафіку браузера. Прот
+ околи HTTP та HTTPS</a></span></span></span></span></span></span></
+ span></span></span></span></span><br><span><span><span><span><span><span><
+ span><span><span><span> </span></span><br><span><span><span><span> </spa
+ n><span>\nГодини занять: 10:00 | 14:00 | 17:00 | 19:00\n\nJoin
+  with Google Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260721T090000Z
+DTEND:20260721T110000Z
+UID:74f0982c-6e9b-4db9-bca0-4567dae1364d-2026-07-21-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span><
+ span><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11912"
+  target="_blank">Lab: Налаштування HTTPS (самопідпис
+ аний сертифікат)</a></span></span></span></span></span></spa
+ n></span></span></span></span></span><br><span><span><span><span><span><sp
+ an><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11913" target="_blank">Lab: Аналіз мережево
+ го трафіку браузера. Протоколи HTTP та HTTPS</
+ a></span></span></span></span></span></span></span></span></span></span></
+ span></span></span></span></span><span><span><span><span><span><span><span
+ ><span><span><span><span><span><span> </span></span></span></span></span>
+ </span></span></span></span></span></span><br><span><span><span><span><spa
+ n><span><span><span><span><br><span><span><span><span><span><span><span><s
+ pan><span><span>Для закріплення отриманих знан
+ ь можете спробувати:</span></span></span></span></span></
+ span></span></span></span></span> <br><span><span>- </span></span></span>
+ </span></span></span></span></span></span></span><a href="https://dl.porta
+ one.com/mod/quiz/view.php?id=11914">Self-check: Шифрування та 
+ SSL/TLS</a></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Стек LAMP
+DTSTART:20260723T070000Z
+DTEND:20260723T090000Z
+UID:5e8823c7-a3d8-4a0a-91c7-6205606683b0-2026-07-23-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11919">Ст
+ ек LAMP</a></span></span></span></span></font></font></span></span></spa
+ n></span><span><br><span> </span></span></span></span></span></span></spa
+ n></span></span></span></span><br><span><span><span><span><span><span><spa
+ n><span><span><span><span>На занятті:<br>- <a href="https://dl.p
+ ortaone.com/mod/page/view.php?id=11920">Lab: Стек LAMP</a></span></spa
+ n></span></span></span></span></span></span></span></span></span><br><span
+ ><span><span><span><span><span><span><span><span><span> </span></span><br
+ ><span><span><span><span> </span><span>\nГодини занять: 10:00
+  | 14:00 | 17:00 | 19:00\n\nJoin with Google Meet: https://meet.google.com
+ /crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.com/a/us
+ ers/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260723T090000Z
+DTEND:20260723T110000Z
+UID:1b52be49-3066-45b6-843c-6ce0c408e852-2026-07-23-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11920" target="_blank">Lab: Стек LAMP</a></span></span
+ ></span></span></span></span></span></span></span></span></span><br><span>
+ <span><span><span><span><span><span><span><span><br><span><span><span><spa
+ n><span><span><span><span><span><span>Для закріплення отр
+ иманих знань можете спробувати:</span></span></
+ span></span></span></span></span></span></span></span> <br><span><span>- 
+ <a href="https://dl.portaone.com/mod/quiz/view.php?id=11921" target="_blan
+ k">Self-check: Стек LAMP</a></span></span></span></span></span></span>
+ </span></span></span></span></span></span></span><br><span><span><span><sp
+ an><span><span><span><span><span><span><span><span><span> </span></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n><br><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span>Саме час пройти модульний контроль
+ :<br>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11925" targe
+ t="_blank"><b>Quiz: Веб-сервер</b></a> </span></span></span></sp
+ an></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: УМУН та основи траблшутінгу
+DTSTART:20260728T070000Z
+DTEND:20260728T090000Z
+UID:805039fb-f0a2-47eb-a889-07b7f4f0f3f1-2026-07-28-lesson-group5@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><font><font><span><
+ span><span><span><span><span><span>До заняття перегляну
+ ти відео та передивитись матеріали з роз
+ ділів:</span></span></span> </span></span></span></span></font></fon
+ t></span></span></span><br><span><span><span><font><font><span><span><span
+ ><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11927">УМ
+ УН та основи траблшутінгу</a></span></span></span></
+ span></font></font></span></span></span></span><span><br><span> </span></
+ span></span></span></span></span></span></span></span></span></span><br><s
+ pan><span><span><span><span><span><span><span><span><span><span>На за
+ нятті:<br>- <a href="https://dl.portaone.com/mod/page/view.php?id=11
+ 928">Lab: Apache &amp\; MySQL Troubleshooting</a></span></span></span></sp
+ an></span></span></span></span></span></span></span><br><span><span><span>
+ <span><span><span><span><span><span><span> </span></span><br><span><span>
+ <span><span> </span><span>\nГодини занять: 10:00 | 14:00 | 17
+ :00 | 19:00\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv
+ \n\nLearn more about Meet at: https://support.google.com/a/users/answer/92
+ 82720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260728T090000Z
+DTEND:20260728T110000Z
+UID:db5b9ff6-3cf2-471e-8940-70cd8affff5e-2026-07-28-homework-group5@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- <a href="https://dl.po
+ rtaone.com/mod/page/view.php?id=11928">Lab: Apache &amp\; MySQL Troublesho
+ oting</a></span></span></span></span></span></span></span></span></span></
+ span></span></span><span><span><span><span><span><span><span><span><span><
+ span><span><span><span> </span></span></span></span></span></span></span>
+ </span></span></span></span><br><span><span><span><span><span><span><span>
+ <span><span><br><span><span><span><span><span><span><span><span><span><spa
+ n>Для закріплення отриманих знань можете
+  спробувати:</span></span></span></span></span></span></span></s
+ pan></span></span> <br><span><span>- <a href="https://dl.portaone.com/mod/
+ quiz/view.php?id=11930">Self-check: УМУН</a></span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
