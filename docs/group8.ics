@@ -2279,4 +2279,22 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚡ [Mashup] Mashup: Final
+DTSTART:20260730T160000Z
+DTEND:20260730T180000Z
+UID:40ra2pgvjme92nrea14r12d656-2026-07-30-mashup-group8@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11942" target="_blank">Quiz:
+  Final</a></b><br><br><span><span><span><span><span><span>Години з
+ анять: </span><br><span>- 10:00 </span><br><span>- 14:00 </span><b
+ r><span>- 17:00 </span><br><span>- 19:00</span></span></span></span> </sp
+ an></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
