@@ -2354,4 +2354,399 @@ LOCATION:https://meet.google.com/crm-eynx-yqv
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Інтерфейс командного рядка
+DTSTART:20260907T140000Z
+DTEND:20260907T160000Z
+UID:618e2908-7e22-472c-81a5-df9fa23bbdab-2026-09-07-lesson-group3@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><font><font><span><span><span><span><
+ span><span><span>До заняття переглянути відео т
+ а передивитись матеріали з розділів:</span>
+ </span></span> </span></span></span></span></font></font></span></span></
+ span><br><span><span><span><font><font><span><span><span><span>- </span></
+ span></span></span></font></font></span></span></span><a href="https://dl.
+ portaone.com/mod/page/view.php?id=11944" target="_blank">Інтерфей
+ с командного рядку</a></span><br><span><br><u></u><span>Н
+ а занятті:<br>-  <a href="https://dl.portaone.com/mod/page/view.p
+ hp?id=11945" target="_blank">Lab: Інтерфейс командного 
+ рядку</a></span></span></span><span><br><span><span> </span></span><
+ br><span><span><span><span> </span><span>\nГодини занять: 10:
+ 00 | 14:00 | 17:00 | 19:00\n\nJoin with Google Meet: https://meet.google.c
+ om/crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.com/a/
+ users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260907T160000Z
+DTEND:20260907T180000Z
+UID:b3172c89-8327-4735-ab38-62ccfdd0878d-2026-09-07-homework-group3@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span><span><span><span><span><span><span><span><span><span><span>З
+ авершити виконання практичних завдань:</
+ span></span></span></span></span></span></span></span> </span></span></sp
+ an></span></span></span></span></span><br><span><span><span><span><span><s
+ pan><span><span>- </span></span></span></span></span></span></span></span>
+ </span></span><span><span><span><span><span><span><span><span><a href="htt
+ ps://dl.portaone.com/mod/page/view.php?id=11945" target="_blank">Lab: Ін
+ терфейс командного рядку</a></span></span></span></s
+ pan></span></span></span></span><br><span><span><span><span><span><span><s
+ pan><span><span><span><span> </span></span></span><br><span><span><span><
+ span><span><span><span><span><span><span>Для закріплення о
+ триманих знань можете спробувати:</span></spa
+ n></span></span></span></span></span></span></span></span> <br><span><span
+ >- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11946" target="_
+ blank">Self-check: CLI</a></span></span></span></span></span></span></span
+ ></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Файлова система
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+UID:8dfe05a8-2be7-4fb5-8921-824c348437b3-2026-09-09-lesson-group3@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><font><font><span><span><
+ span><span><span><span><span>До заняття переглянути в
+ ідео та передивитись матеріали з розділ
+ ів:</span></span></span> </span></span></span></span></font></font></sp
+ an></span></span><br><span><span><span><font><font><span><span><span><span
+ >- <a href="https://dl.portaone.com/mod/page/view.php?id=11744">Файло
+ ва система</a></span></span></span></span></font></font></span></
+ span></span></span><br><span><br><span>На занятті:<br>- <a href=
+ "https://dl.portaone.com/mod/lesson/view.php?id=11745">Lab: Файлова
+  система</a></span></span></span><span><br><span><span> </span></s
+ pan><br><span><span><span><span> </span><span>\nГодини занять
+ : 10:00 | 14:00 | 17:00 | 19:00\n\nJoin with Google Meet: https://meet.goo
+ gle.com/crm-eynx-yqv\n\nLearn more about Meet at: https://support.google.c
+ om/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260909T160000Z
+DTEND:20260909T180000Z
+UID:c1ce71cc-4252-48dc-9069-e9db521d64d2-2026-09-09-homework-group3@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- </span></span></span></span></span></
+ span></span></span></span></span></span></span></span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><a href="https://dl.po
+ rtaone.com/mod/lesson/view.php?id=11745" target="_blank">Lab: Файлов
+ а система</a></span></span></span></span></span></span></span></sp
+ an></span></span></span></span><span><span><span><span><span><span><span><
+ span><span><span><span><span><span></span></span></span></span></span></sp
+ an></span></span></span></span></span><br><span><span><span><span><span><s
+ pan><span><span><span><br><span><span><span><span><span><span><span><span>
+ <span><span>Для закріплення отриманих знань м
+ ожете спробувати:</span></span></span></span></span></span>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span></span></span></span><br><span><span><span><span><span><span><sp
+ an><span><span><span><span><span><span><span><span><span><span><span><span
+ ><span><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=1174
+ 6" target="_blank">Self-check: Файлова система</a></span></s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ </span></span></span></span></span></span></span></span></span><br><span><
+ span><span><span><span><span><span><span><span><span><span><span><span><sp
+ an><span><span><span><span><span><span><span> </span></span></span></span
+ ></span></span></span></span></span></span></span></span></span></span></s
+ pan></span></span></span></span></span></span><br><span><span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span>Саме час розпочати/продо
+ вжити/закінчити:<br>- <a href="https://dl.portaone.com/mod/
+ quiz/view.php?id=11749">Assignment: Файлова система</a> </s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ </span></span></span></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема:  Користувачі та права доступ
+ у
+DTSTART:20260914T140000Z
+DTEND:20260914T160000Z
+UID:f947e9d0-90da-4c4d-9045-36ac0085b6b7-2026-09-14-lesson-group3@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><font><font><span><span><
+ span><span><span><span><span>До заняття переглянути в
+ ідео та передивитись матеріали з розділ
+ ів:</span></span></span> </span></span></span></span></font></font></sp
+ an></span></span><br><span><span><span><font><font><span><span><span><span
+ >- <a href="https://dl.portaone.com/mod/page/view.php?id=11759"> Кори
+ стувачі та права доступу</a></span></span></span></sp
+ an></font></font></span></span></span></span><br><span><br><span>На за
+ нятті:<br>- <a href="https://dl.portaone.com/mod/lesson/view.php?id=
+ 11760">Lab: Користувачі</a></span></span></span></span></span><
+ /span></span></span></span></span><br><span><span><span><span><span><span>
+ <span><span><span><span>- <a href="https://dl.portaone.com/mod/page/view.
+ php?id=11761">Lab: Права доступу до файлів</a></span><
+ /span></span><span><br><span><span> </span></span><br><span><span><span><
+ span> </span><span>\nГодини занять: 10:00 | 14:00 | 17:00 | 1
+ 9:00\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n\nLea
+ rn more about Meet at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260914T160000Z
+DTEND:20260914T180000Z
+UID:0419624a-cd3f-45ae-b28a-01a7501b1644-2026-09-14-homework-group3@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span></span></span></span></span>
+ </span></span></span></span></span></span></span></span></span><br><span><
+ span><span><span><span><span><span><span><span><span><span><span>- <a hre
+ f="https://dl.portaone.com/mod/lesson/view.php?id=11760" target="_blank">L
+ ab: Користувачі</a></span></span></span></span></span></span></
+ span></span></span></span><br><span><span><span><span><span><span><span><s
+ pan><span><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=1
+ 1761" target="_blank">Lab: Права доступу до файлів</a>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span><br><span><span><span><span><span><span><span><span><span><span>
+ <span><span> </span></span></span></span></span></span></span></span></sp
+ an></span></span></span><span><span><span><span><span><span><span><span><s
+ pan><span><span><br><span><span><span><span><span><span><span><span><span>
+ <span>Для закріплення отриманих знань може
+ те спробувати:</span></span></span></span></span></span></span
+ ></span></span></span> <br><span><span>- <a href="https://dl.portaone.com
+ /mod/quiz/view.php?id=11762" target="_blank">Self-check: Користув
+ ачі та права доступу</a></span></span></span></span></spa
+ n></span></span></span></span></span><br><span><span><span><span><span><sp
+ an><span><span><span><span> </span></span></span></span></span></span></s
+ pan></span></span></span><br><span><span><span><span><span><span><span><sp
+ an><span><span>Саме час почати/продовжити/заве
+ ршити:</span></span></span></span></span></span></span></span></span>
+ </span></span></span></span><br><span><span><span><span><span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span>- <a href="https://dl.portaone.com/mod/quiz/view.ph
+ p?id=11749" target="_blank">Assignment: Файлова система</a><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span></span></
+ span></span><span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span> </span></span></span></span></span></span></span></span>
+ </span></span><br><span><span><span><span><span><span><span><span><span><s
+ pan>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11764" target
+ ="_blank"> Assignment: Файли\, користувачі\, права д
+ оступу</a></span></span></span></span></span></span></span></span></
+ span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Процеси та перенаправлення в
+ воду/виводу
+DTSTART:20260916T140000Z
+DTEND:20260916T160000Z
+UID:859f274d-4c66-4216-a011-c876c278c5f4-2026-09-16-lesson-group3@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><font><font><span><span><
+ span><span><span><span><span>До заняття переглянути в
+ ідео та передивитись матеріали з розділ
+ ів:</span></span></span> </span></span></span></span></font></font></sp
+ an></span></span><br><span><span><span><font><font><span><span><span><span
+ >- <a href="https://dl.portaone.com/mod/page/view.php?id=11751">Проце
+ си та перенаправлення вводу/виводу</a></span
+ ></span></span></span></font></font></span></span></span></span><br><span>
+ <br><span>На занятті:<br>- <a href="https://dl.portaone.com/mod/
+ page/view.php?id=11752">Lab: Процеси</a></span></span></span><span>
+ <br><span><span> </span></span><br><span><span><span><span> </span><span
+ >\nГодини занять: 10:00 | 14:00 | 17:00 | 19:00\n\nJoin with G
+ oogle Meet: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet 
+ at: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260916T160000Z
+DTEND:20260916T180000Z
+UID:b2dd987e-6029-4c9b-a717-74af178da2a7-2026-09-16-homework-group3@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span>- <a href="https://dl.portaone.com/mod/p
+ age/view.php?id=11752">Lab: Процеси</a></span></span></span></span>
+ </span></span></span></span></span></span></span><br><span><span><span><sp
+ an><span><span><span><span><span><br><span><span><span><span><span><span><
+ span><span><span><span>Для закріплення отриманих з
+ нань можете спробувати:</span></span></span></span></s
+ pan></span></span></span></span></span> <br><span><span>- <a href="https:/
+ /dl.portaone.com/mod/quiz/view.php?id=11753">Self-check: Процеси</a
+ ></span></span></span></span></span></span></span></span></span></span><br
+ ><span><span><span><span><span><span><span><span><span><span> </span></sp
+ an></span></span></span></span></span></span></span></span><br><span><span
+ ><span><span><span><span><span><span><span><span>Саме час поча
+ ти/продовжити/завершити:</span></span></span></span><
+ /span></span></span></span></span></span><span><span></span></span></span>
+ </span></span><br><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span><span><span><span><span><span>- <a href="https://dl.portaon
+ e.com/mod/quiz/view.php?id=11749" target="_blank">Assignment: Файлов
+ а система</a></span></span></span></span></span></span></span></sp
+ an></span></span></span></span></span></span></span></span></span></span><
+ /span></span></span></span></span><span><span><span><span><span><span><spa
+ n><span><span><span><span><span><span> </span></span></span></span></span
+ ></span></span></span></span></span><br><span><span><span><span><span><spa
+ n><span><span><span><span>- <a href="https://dl.portaone.com/mod/quiz/vie
+ w.php?id=11764" target="_blank"> Assignment: Файли\, користув
+ ачі\, права доступу</a></span></span></span></span></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Траблшутінг швидкодії
+DTSTART:20260921T140000Z
+DTEND:20260921T160000Z
+UID:2ec43489-224d-4b13-9d6a-c345b17d324c-2026-09-21-lesson-group3@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:🎥 Google Meet: <a href="https://meet.google.com/crm-eynx-yq
+ v">https://meet.google.com/crm-eynx-yqv</a><br><br><span><span><span><span
+ ><span><span><span><span><span><span><span><span><font><font><span><span><
+ span><span><span><span><span>До заняття переглянути в
+ ідео та передивитись матеріали з розділ
+ ів:</span></span></span> </span></span></span></span></font></font></sp
+ an></span></span><br><span><span><span><font><font><span><span><span><span
+ >- </span></span></span></span></font></font></span></span></span></span><
+ a href="https://dl.portaone.com/mod/page/view.php?id=11934" target="_blank
+ ">Траблшутінг швидкодії</a><br><span><br><u></u><span>
+ На занятті:<br>- </span></span></span><span><a href="https://dl.p
+ ortaone.com/mod/page/view.php?id=11935" target="_blank">Lab: Пошук т
+ а усунення проблем швидкодії</a></span></span></s
+ pan></span></span></span></span></span><br><span><span><span><span><span><
+ span><span><span>- </span></span></span></span></span></span></span></spa
+ n><span><span><span><span><span><span><span><span><span><span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11936" target="_blan
+ k">[optional] Performance troubleshooting</a></span></span></span></span><
+ /span></span></span></span></span></span></span></span><span><span><span><
+ span><span><span><span><span> </span></span></span></span></span></span><
+ /span></span><br><span><span><span><span><span><span><span><span><span><sp
+ an> </span></span><br><span><span><span><span> </span><span>\nГодин
+ и занять: 10:00 | 14:00 | 17:00 | 19:00\n\nJoin with Google Meet: h
+ ttps://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: https://s
+ upport.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260921T160000Z
+DTEND:20260921T180000Z
+UID:a21cc181-3bb4-44f4-bb60-a2bfbd58b3c7-2026-09-21-homework-group3@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span>Завершит
+ и виконання практичних завдань:</span></span></
+ span></span></span></span></span></span> </span></span></span></span></sp
+ an></span></span></span><br></span></span><span><span><span><span><span><s
+ pan><span><span><span><span>- </span></span></span><span><a href="https://
+ dl.portaone.com/mod/page/view.php?id=11935" target="_blank">Lab: Пошу
+ к та усунення проблем швидкодії</a></span></spa
+ n></span></span></span></span><br><span><span><span><span><span><span>- <a
+  href="https://dl.portaone.com/mod/page/view.php?id=11936" target="_blank"
+ >[optional] Performance troubleshooting</a></span></span></span></span></s
+ pan></span></span></span><br><span><span><span><span><span><span><span><sp
+ an><br><span><span><span><span><span><span><span><span><span><span>Для 
+ закріплення отриманих знань можете спро
+ бувати:</span></span></span></span></span></span></span></span></spa
+ n></span> <br><span><span>- <a href="https://dl.portaone.com/mod/quiz/view
+ .php?id=11937" target="_blank">Self-check: Траблшутінг швид
+ кодії</a></span></span></span></span></span></span></span></span></sp
+ an></span><span><span><span><span><span><span><span><span><span><span> </
+ span></span></span></span></span></span></span></span></span></span></span
+ ></span><br><span><span><span><span><span><span><span><span><span><span><s
+ pan><span> </span></span></span></span></span></span></span></span></span
+ ></span></span></span><span><span><span><br><span><span><span><span><span>
+ <span><span><span><span><span>Саме час почати/продовж
+ ити/завершити:</span></span></span></span></span></span></span
+ ></span></span></span><br><span><span><span><span><span><span><span><span>
+ <span><span></span></span></span></span></span></span></span></span></span
+ ></span></span></span></span><span><span><span><span><span><span><span><sp
+ an><span><span><span><span><span><span>- <a href="https://dl.portaone.com
+ /mod/quiz/view.php?id=11972" target="_blank">Assignment: Troubleshooting</
+ a></span></span></span></span></span></span></span></span></span></span></
+ span></span></span></span><span><span><span><span><span><span><span><span>
+ <span><span><span><span><span> </span></span></span></span></span></span>
+ </span></span></span></span></span></span></span><br><span><span><span><sp
+ an><span><span><span><span><span><span><span><span><span>- </span></span>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an><span><span><span><span><span><span><span><span><span><span><span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span><
+ span><span><span><span><span><a href="https://dl.portaone.com/mod/quiz/vie
+ w.php?id=11749" target="_blank">Assignment: Файлова система<
+ /a></span></span></span></span></span></span></span></span></span></span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span><span> </span></span></span></span></span></span></span></s
+ pan></span></span><br><span><span><span><span><span><span><span><span><spa
+ n><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11764" ta
+ rget="_blank">Assignment: Файли\, користувачі\, права
+  доступу</a></span></span></span></span></span></span></span></span
+ ></span></span></span></span></span></span></span></span></span></span></s
+ pan>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚡ [Mashup] Mashup Linux - module 1
+DTSTART:20260923T140000Z
+DTEND:20260923T160000Z
+UID:08acg7qel9np1b453oe50k7eb7-2026-09-23-mashup-group3@filtered.local
+SEQUENCE:0
+DESCRIPTION:<span></span><span><span><span><span><span><span><span><span><
+ span><span>До початку контрольного <b>mashup </b>за
+ кінчити:<br>- </span></span></span></span></span></span><b><a href=
+ "https://dl.portaone.com/mod/quiz/view.php?id=11757" target="_blank">Quiz:
+  Linux - module 1</a></b><br><br><span><span><span><span><span><span>Го
+ дини занять: </span><br><span>- 10:00 </span><br><span>- 14:00
+  </span><br><span>- 17:00 </span><br><span>- 19:00</span></span></span><
+ /span> </span></span></span></span></span></span>
+LOCATION:https://meet.google.com/crm-eynx-yqv
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
