@@ -2696,4 +2696,354 @@ LOCATION:
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Системні утиліти
+DTSTART:20260929T140000Z
+DTEND:20260929T160000Z
+UID:73f3af87-7786-4815-bdf6-d519593147f8-2026-09-29-lesson-group7@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://d
+ l.portaone.com/mod/page/view.php?id=11768">Системні утиліти
+ </a></span></span></span></span></font></font></span></span></span></span>
+ <span><br><span> </span></span></span></span></span></span></span></span>
+ </span></span></span><br><span><span><span><span><span><span><span><span><
+ span><span><span>На занятті:<br>- <a href="https://dl.portaone.c
+ om/mod/page/view.php?id=11769">Lab: мултіплексор термін
+ алу</a> </span></span></span></span></span></span></span></span></span
+ ></span></span></span></span><br><span><span><span><span><span><span><span
+ ><span><span><span><span><span><span>- <a href="https://dl.portaone.com/m
+ od/page/view.php?id=11770">Lab: cron</a> </span></span></span></span></sp
+ an></span></span></span></span></span></span></span></span><br><span><span
+ ><span><span><span><span><span><span><span><span> </span></span><br><span
+ ><span><span><span> </span><span><br><span style="font-family:monospace">
+ Ментори:<br>- Андрій\,&nbsp\;&nbsp\;&nbsp\;&nbsp\;17:00: <a h
+ ref="https://meet.google.com/crm-eynx-yqv">meet.google.com/crm-eynx-yqv</a
+ >\;<br>- Роман\,&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;19:00: <a href="ht
+ tps://meet.google.com/dbk-bvnj-jfq">meet.google.com/dbk-bvnj-jfq</a>\;<br>
+ - Олександр\,&nbsp\;19:00: <a href="https://meet.google.com/vbd-e
+ ovc-yfw">meet.google.com/vbd-eovc-yfw</a>\;</span>\n\nJoin with Google Mee
+ t: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: https
+ ://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+UID:83f90315-920e-4d92-99a6-f88f7ab18c41-2026-09-29-homework-group7@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span></span></span></span><span
+ ><span><span><span><span><span><span><span><span><span><span><span><span><
+ span><span><span>- <a href="https://dl.portaone.com/mod/page/view.php?id=
+ 11769" target="_blank">Lab: мултіплексор терміналу</a
+ > </span></span></span></span></span></span></span></span></span></span><
+ /span></span></span><br><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span>- <a href="https://dl.portaone.com/mod/page/v
+ iew.php?id=11770" target="_blank">Lab: cron</a></span></span></span></span
+ ></span></span></span></span></span></span></span></span></span></span></s
+ pan></span><br><span><span><span><span><span><span><span><span><span><span
+ ><span><br><span><span><span><span><span><span><span><span><span><span>Д
+ ля закріплення отриманих знань можете с
+ пробувати:</span></span></span></span></span></span></span></span
+ ></span></span> <br><span><span>- <a href="https://dl.portaone.com/mod/qu
+ iz/view.php?id=11771">Self-check: Системні утиліти</a></spa
+ n></span></span></span></span></span></span></span></span></span></span></
+ span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Системні утиліти
+DTSTART:20261001T140000Z
+DTEND:20261001T160000Z
+UID:7118804d-8fa3-495b-87d3-17f9cf4a8f01-2026-10-01-lesson-group7@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span><span><span><span><span><font><font><span><span><span><span>
+ - <a href="https://dl.portaone.com/mod/page/view.php?id=11768" target="_bl
+ ank">Системні утиліти</a></span></span></span></span></font
+ ></font></span></span></span></span></span></span></span></span></span></s
+ pan></span></span></span></span></span></span></span><span><span><span><sp
+ an><span><span><span><span><span><span><span><span><span><span><span><font
+ ><font><span><span><span><span></span></span></span></span></font></font><
+ /span></span></span></span><span><br><span> </span></span></span></span><
+ /span></span></span></span></span></span></span><br><span><span><span><spa
+ n><span><span><span><span><span><span><span>На занятті:<br>- <a 
+ href="https://dl.portaone.com/mod/page/view.php?id=11774">Lab: Systemd</a>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span></span><br><span><span><span><span><span><span><span><span><span
+ ><span> </span></span><br><span><span><span><span> </span><span><br><spa
+ n style="font-family:monospace">Ментори:<br>- Андрій\,&nbsp\;
+ &nbsp\;&nbsp\;&nbsp\;17:00: <a href="https://meet.google.com/crm-eynx-yqv"
+ >meet.google.com/crm-eynx-yqv</a>\;<br>- Роман\,&nbsp\;&nbsp\;&nbsp\;
+ &nbsp\;&nbsp\;19:00: <a href="https://meet.google.com/dbk-bvnj-jfq">meet.g
+ oogle.com/dbk-bvnj-jfq</a>\;<br>- Олександр\,&nbsp\;19:00: <a hre
+ f="https://meet.google.com/vbd-eovc-yfw">meet.google.com/vbd-eovc-yfw</a>
+ \;</span>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv\n
+ \nLearn more about Meet at: https://support.google.com/a/users/answer/9282
+ 720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20261001T160000Z
+DTEND:20261001T180000Z
+UID:5da21240-5a43-4f3f-877a-cab0b0ed2087-2026-10-01-homework-group7@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <span><span><span><span><span><span><span><span><span><span><span><span><s
+ pan><a href="https://dl.portaone.com/mod/page/view.php?id=11774" target="_
+ blank">Lab: Systemd</a></span></span></span></span></span></span></span></
+ span></span></span></span></span></span></span></span><br><span><span><spa
+ n><span><span><span><span><span><span><span><span><br><span><span><span><s
+ pan><span><span><span><span><span><span>Для закріплення от
+ риманих знань можете спробувати:</span></span>
+ </span></span></span></span></span></span></span></span> <br><span><span>-
+  <a href="https://dl.portaone.com/mod/quiz/view.php?id=11776">Self-check:
+  Systemd</a></span></span></span></span></span></span></span></span></span
+ ></span></span></span></span><br><span><span><span><span><span><span><span
+ ><span><span><span><span><span><span> </span></span></span></span></span>
+ </span></span></span></span></span></span></span></span><br><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span>Саме час почати/продовжити/завер
+ шити:</span></span></span></span></span></span></span></span></span></
+ span></span></span></span></span></span></span></span><br><span><span><spa
+ n><span><span><span><span><span><span><span><span><span><span><span><span>
+ <span><span>- <a href="https://dl.portaone.com/mod/quiz/view.php?id=11779
+ ">Assignment: Системні служби та утиліти</a></span>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема:  Регулярні вирази
+DTSTART:20261006T140000Z
+DTEND:20261006T160000Z
+UID:36c37d4d-3cc4-414c-b538-400947fa81c1-2026-10-06-lesson-group7@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ <span><span><span><font><font><span><span><span><span>- <a href="https://
+ dl.portaone.com/mod/page/view.php?id=11968">Регулярні вираз
+ и</a> </span></span></span></span></font></font></span></span></span></s
+ pan><span><br><span> </span></span></span></span></span></span></span></s
+ pan></span></span></span><br><span><span><span><span><span><span><span><sp
+ an><span><span><span>На занятті:<br>- <a href="https://dl.portao
+ ne.com/mod/page/view.php?id=11783">Lab: Регулярні вирази</a
+ ></span></span></span></span></span></span></span></span></span></span></s
+ pan></span></span><br><span><span><span><span><span><span><span><span><spa
+ n><span> </span></span><br><span><span><span><span> </span><span><br><sp
+ an style="font-family:monospace">Ментори:<br>- Андрій\,&nbsp
+ \;&nbsp\;&nbsp\;&nbsp\;17:00: <a href="https://meet.google.com/crm-eynx-yq
+ v">meet.google.com/crm-eynx-yqv</a>\;<br>- Роман\,&nbsp\;&nbsp\;&nbsp
+ \;&nbsp\;&nbsp\;19:00: <a href="https://meet.google.com/dbk-bvnj-jfq">meet
+ .google.com/dbk-bvnj-jfq</a>\;<br>- Олександр\,&nbsp\;19:00: <a h
+ ref="https://meet.google.com/vbd-eovc-yfw">meet.google.com/vbd-eovc-yfw</a
+ >\;</span>\n\nJoin with Google Meet: https://meet.google.com/crm-eynx-yqv
+ \n\nLearn more about Meet at: https://support.google.com/a/users/answer/92
+ 82720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20261006T160000Z
+DTEND:20261006T180000Z
+UID:022384e7-70d4-4f7b-8ee3-57e1d2b72f86-2026-10-06-homework-group7@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span><span><spa
+ n>Завершити виконання практичних завдан
+ ь:</span></span></span></span></span></span></span></span> </span></span
+ ></span></span></span></span></span></span><br></span></span></span></span
+ ></span><span><span><span><span><span><span><span><span><span><span><span>
+ <span>- </span></span></span></span></span></span></span></span></span></
+ span></span></span><span><span><span><span><span><span><span><span><span><
+ span><span><span><span><span><span><span><span><span><span><span><span><sp
+ an><span><span><span><a href="https://dl.portaone.com/mod/page/view.php?id
+ =11783" target="_blank">Lab: Регулярні вирази</a> </span><
+ /span></span></span></span></span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span></span></span></span></
+ span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Обробка тексту
+DTSTART:20261008T140000Z
+DTEND:20261008T160000Z
+UID:653e21b0-cef9-427c-b632-b241f5cc9def-2026-10-08-lesson-group7@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span></sp
+ an></span></span></span></span></span></span></span></span></span></span><
+ /span><span><span><br><span><span><span><span><span><span><span><span><spa
+ n><span><span><span><span><span><span><span><font><font><span><span><span>
+ <span>- <a href="https://dl.portaone.com/mod/page/view.php?id=11970" targe
+ t="_blank">Обробка тексту</a></span></span></span></span></fo
+ nt></font></span></span></span></span><br><span><br><u></u><span>На за
+ нятті:<br></span></span></span></span></span></span></span></span></s
+ pan></span></span></span></span></span><span><span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- <a href="https://dl.por
+ taone.com/mod/page/view.php?id=11784" target="_blank">Lab: Обробка 
+ тексту</a></span></span></span></span></span></span></span></span></
+ span></span></span></span></span></span></span></span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span></span></span></span><
+ /span></span></span></span></span></span></span><span><span><span><span><s
+ pan><span><span><span><span><span><span> </span></span></span></span></sp
+ an></span></span></span></span></span></span></span></span><br><span><span
+ ><span><span><span><span><span><span><span><span> </span></span><br><span
+ ><span><span><span> </span><span><br><span style="font-family:monospace">
+ Ментори:<br>- Андрій\,&nbsp\;&nbsp\;&nbsp\;&nbsp\;17:00: <a h
+ ref="https://meet.google.com/crm-eynx-yqv">meet.google.com/crm-eynx-yqv</a
+ >\;<br>- Роман\,&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;19:00: <a href="ht
+ tps://meet.google.com/dbk-bvnj-jfq">meet.google.com/dbk-bvnj-jfq</a>\;<br>
+ - Олександр\,&nbsp\;19:00: <a href="https://meet.google.com/vbd-e
+ ovc-yfw">meet.google.com/vbd-eovc-yfw</a>\;</span>\n\nJoin with Google Mee
+ t: https://meet.google.com/crm-eynx-yqv\n\nLearn more about Meet at: https
+ ://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20261008T160000Z
+DTEND:20261008T180000Z
+UID:eba0d943-773b-4ed2-bd38-fd8f577ddd22-2026-10-08-homework-group7@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><br><span><span><span><
+ span><span><span><span><span><span><span><span><span><span><span><span><sp
+ an><span><span><span><span><span><span><span><span><span>- <a href="https
+ ://dl.portaone.com/mod/page/view.php?id=11784">Lab: Обробка тек
+ сту</a> </span></span></span></span></span></span></span></span></span
+ ></span></span></span></span></span></span></span></span></span></span></s
+ pan></span></span></span></span></span><br><span><span><span><span><span><
+ span><span><span><span><span><span><br><span><span><span><span><span><span
+ ><span><span><span><span>Для закріплення отриманих 
+ знань можете спробувати:</span></span></span></span><
+ /span></span></span></span></span></span> <br><span><span>- <a href="http
+ s://dl.portaone.com/mod/quiz/view.php?id=11977" target="_blank">Self-check
+ : обробка тексту</a></span></span></span></span></span></span
+ ></span></span></span></span></span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. Тема: Bash scripting
+DTSTART:20261013T140000Z
+DTEND:20261013T160000Z
+UID:3e566b05-48a9-40fc-be90-5812e765e8ee-2026-10-13-lesson-group7@filtered
+ .local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><font><font><span><span><span><span><span><spa
+ n><span>До заняття переглянути відео та пер
+ едивитись матеріали з розділів:</span></span></
+ span> </span></span></span></span></font></font></span></span></span><br>
+ </span></span></span></span></span></span></span></span></span></span></sp
+ an></span><span><span><span><span><span><span><span><span><span><span><spa
+ n><span><span><span><font><font><span><span><span><span>- <a href="https:/
+ /dl.portaone.com/mod/page/view.php?id=11973" target="_blank"> Bash scripti
+ ng</a></span></span></span></span></font></font></span></span></span></spa
+ n><br><span><br><span>На занятті:<br>- <a href="https://dl.porta
+ one.com/mod/page/view.php?id=11785" target="_blank">Lab: Сценарії 
+ оболонки</a></span></span></span></span></span></span></span></spa
+ n></span></span></span></span><br><span><span><span><span><span><span><spa
+ n><span><span><span> </span></span><br><span><span><span><span> </span><
+ span><br><span style="font-family:monospace">Ментори:<br>- Андр
+ ій\,&nbsp\;&nbsp\;&nbsp\;&nbsp\;17:00: <a href="https://meet.google.com/
+ crm-eynx-yqv">meet.google.com/crm-eynx-yqv</a>\;<br>- Роман\,&nbsp\;&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;19:00: <a href="https://meet.google.com/dbk-bvn
+ j-jfq">meet.google.com/dbk-bvnj-jfq</a>\;<br>- Олександр\,&nbsp\;
+ 19:00: <a href="https://meet.google.com/vbd-eovc-yfw">meet.google.com/vbd-
+ eovc-yfw</a>\;</span>\n\nJoin with Google Meet: https://meet.google.com/cr
+ m-eynx-yqv\n\nLearn more about Meet at: https://support.google.com/a/users
+ /answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Домашне завдання:
+DTSTART:20261013T160000Z
+DTEND:20261013T180000Z
+UID:4b48257a-4715-4f52-b735-0b53a7ca7ad9-2026-10-13-homework-group7@filter
+ ed.local
+SEQUENCE:0
+DESCRIPTION:<span><span><span><span><span><span><span><span><span><span><s
+ pan><span><span><span><span><span><span><span><span><span><span>Завер
+ шити виконання практичних завдань:</span></s
+ pan></span></span></span></span></span></span> </span></span></span></spa
+ n></span></span></span></span><br></span></span><span><span><span><span><s
+ pan><span><span><span><span><span></span></span></span></span></span></spa
+ n></span></span></span></span></span></span></span><span><span><span><span
+ ><span><span><span><span><span><span><span><span>- </span></span></span><
+ /span></span></span></span></span></span></span></span></span><span><span>
+ <a href="https://dl.portaone.com/mod/page/view.php?id=11785">Lab: Сцен
+ арії оболонки</a><br><span><span><span><span><span><span><span
+ ><span><span><br><span><span><span><span><span><span><span><span><span><sp
+ an>Для закріплення отриманих знань может
+ е спробувати:</span></span></span></span></span></span></span><
+ /span></span></span> <br><span><span>- <a href="https://dl.portaone.com/m
+ od/quiz/view.php?id=11979">Self-check: сценарії оболонки</
+ a></span></span></span></span></span></span></span></span></span></span></
+ span></span></span>
+LOCATION:
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
